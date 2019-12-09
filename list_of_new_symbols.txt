@@ -1,0 +1,29 @@
+# EXTRACTED FROM apertium-eng/apertium-eng.eng.dix
+
+lquest (Part-of-speech categories) || Left question/exclamation mark || ¿¡ (''used in Spanish'') || PUNCT
+
+abbr (??) || Abbreviation (e.g. ''etc., approx., est., Mr., Mrs., no.'') || Acronyms are included (see: acr)
+
+percent (Maybe a new category like "Types of numbers"?) || Percentage (e.g. 25%)
+
+file (Others) || Filename
+
+# EXTRACTED FROM apertium-deu/apertium-deu.deu.dix
+
+ito (Tense and mode) || Infinitive with 'to' || German || VerbForm=Inf (not sure what this one truly means, I found it in the German dix)
+
+sep (Maybe a new category "Seperable verbs"?) || Seperable verb (I guess it means separable, but I've checked a couple dictionaries and in all of them it's listed "seperable") || [https://en.wikipedia.org/wiki/Separable_verb], [https://deutsch.lingolia.com/en/grammar/verbs/separable-verbs], [https://www.aclweb.org/anthology/P98-1078.pdf]
+
+fs (Seperable verbs?) || Seperable verb in subordinate clause || 
+
+fm (Seperable verbs?) || Seperable verb in main clause ||
+
+atp (new category "Morphemes"?) || Attachable prefix || For example, in German, ''zusammen''-: [https://www.wort-suchen.de/woerterbuch/woerter-mit-15-buchstaben-von-zusammen]
+
+# EXTRACTED FROM apertium-lvs/apertium-lvs.lvs.dix
+
+deb (Tense and mode) || Debitive mode || Exclusive to Latvian: [https://en.wikipedia.org/wiki/Debitive]
+
+# EXTRACTED FROM apertium-nno/apertium-nno.nno.dix
+
+date (Others?) || Dates, years
