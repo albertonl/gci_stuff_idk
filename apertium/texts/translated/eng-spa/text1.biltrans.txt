@@ -1,0 +1,3528 @@
+"<The>" det def sp
+	"El" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<serve>" vblex pri p3 sg
+	"servir" vblex pri p3 sg
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<meeting>" n sg
+	"reunión" n f sg
+"<place>" n sg
+	"sitio" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<*Commons>"
+	"*Commons"
+"<and>" cnjcoo
+	"y" cnjcoo
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<Lord>" n pl
+	"Señor" n GD pl
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<two>" num sp
+	"dos" num mf sp
+"<house>" n pl
+	"casa" n f pl
+	"cámara" n f pl
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<United Kingdom>" np loc sg
+	"Reino Unido" np loc m sg
+"<.>" sent
+	"." sent
+"<Commonly>" adv
+	"Generalmente" adv
+"<know>" vblex pp
+	"saber" vblex pp
+	"conocer" vblex pp
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n pl
+	"Casa" n f pl
+	"Cámara" n f pl
+"<of>" pr
+	"de" pr
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<after>" pr
+	"después de" pr
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<occupant>" n pl
+	"ocupante" n mf pl
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<lie>" n pl
+	"mentira" n f pl
+"<on>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<north>" adj sint
+	"del norte" adj mf
+"<bank# of the river>" n sg
+	"orilla# del río" n f sg
+"<*Thames>"
+	"*Thames"
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<City>" n sg
+	"Ciudad" n f sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<,>" cm
+	"," cm
+"<in>" pr
+	"en" pr
+"<central>" adj
+	"central" adj mf
+"<London>" np loc sg
+	"Londres" np loc m sg
+"<,>" cm
+	"," cm
+"<England>" np loc sg
+	"Inglaterra" np loc f sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<Its>" det pos sp
+	"Suyo" det pos mf ND
+"<name>" n sg
+	"nombre" n m sg
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<derive>" vblex pri p3 sg
+	"derivar" vblex pri p3 sg
+"<from>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<neighbouring>" adj
+	"vecino" adj
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Abbey>" n sg
+	"Abadía" n f sg
+"<,>" cm
+	"," cm
+"<may>" vaux inf
+	"poder" vbmod inf
+"<refer>" vblex inf
+	"referir" vblex inf
+"<to>" pr
+	"a" pr
+"<either>" prn tn mf sp
+	"cualquiera" prn tn mf ND
+"<of>" pr
+	"de" pr
+"<two>" num sp
+	"dos" num mf sp
+"<structure>" n pl
+	"estructura" n f pl
+"<:>" sent
+	":" sent
+"<the>" det def sp
+	"el" det def GD ND
+"<Old>" adj sint
+	"Viejo" adj
+"<Palace>" n sg
+	"Palacio" n m sg
+"<,>" cm
+	"," cm
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<medieval>" adj
+	"medieval" adj mf
+"<building>" n sg
+	"edificio" n m sg
+	"construcción" n f sg
+"<->" guio
+	"-" guio
+"<complex>" adj
+	"complejo" adj
+"<destroy>" vblex pp
+	"destruir" vblex pp
+"<by>" pr
+	"por" pr
+"<fire>" n sg
+	"fuego" n m sg
+"<in>" pr
+	"en" pr
+"<1834>" num
+	"1834" num
+"<,>" cm
+	"," cm
+"<or>" cnjcoo
+	"o" cnjcoo
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<replacement>" n sg
+	"sustitución" n f sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<New>" adj sint
+	"Nuevo" adj
+"<Palace>" n sg
+	"Palacio" n m sg
+"<that>" cnjsub
+	"que" cnjsub
+"<stand>" n pl
+	"estand" n m pl
+	"puesto" n m pl
+	"soporte" n m pl
+	"postura" n f pl
+	"posición" n f pl
+"<today>" adv
+	"hoy" adv
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<palace>" n sg
+	"palacio" n m sg
+"<be>" vbser pri p3 sg
+	"ser" vbser pri p3 sg
+"<own>" vblex pp
+	"poseer" vblex pp
+"<by>" pr
+	"por" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<monarch>" n sg
+	"monarca" n mf sg
+"<in>" pr
+	"en" pr
+"<right>" adj
+	"derecho" adj
+	"correcto" adj
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Crown>" n sg
+	"Corona" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<,>" cm
+	"," cm
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<*ceremonial>"
+	"*ceremonial"
+"<purpose>" n pl
+	"propósito" n m pl
+	"finalidad" n f pl
+"<,>" cm
+	"," cm
+"<retain>" vblex pri p3 sg
+	"retener" vblex pri p3 sg
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<original>" adj
+	"original" adj mf
+"<status>" n sg
+	"estado" n m sg
+	"estatus" n m sg
+"<as a>" pr
+	"como" pr
+"<royal>" adj
+	"real" adj mf
+"<residence>" n sg
+	"residencia" n f sg
+"<.>" sent
+	"." sent
+"<Committee>" n pl
+	"Comité" n m pl
+"<appoint>" vblex past
+	"nombrar" vblex past
+	"fijar" vblex past
+"<by>" pr
+	"por" pr
+"<both>" det ind pl
+	"ambos" det ind GD pl
+"<house>" n pl
+	"casa" n f pl
+	"cámara" n f pl
+"<manage>" vblex inf
+	"dirigir" vblex inf
+	"conseguir" vblex inf
+"<the>" det def sp
+	"el" det def GD ND
+"<building>" n sg
+	"edificio" n m sg
+	"construcción" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<report>" n sg
+	"informe" n m sg
+	"reportaje" n m sg
+"<to>" pr
+	"a" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Speaker>" n sg
+	"Altavoz" n m sg
+	"Oradora" n f sg
+	"Ponente" n mf sg
+	"Hablante" n mf sg
+	"Presidente" n f sg
+	"Interlocutor" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<*Commons>"
+	"*Commons"
+"<and>" cnjcoo
+	"y" cnjcoo
+"<to>" pr
+	"a" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Lord>" n sg
+	"Señor" n GD sg
+"<Speaker>" n sg
+	"Altavoz" n m sg
+	"Oradora" n f sg
+	"Ponente" n mf sg
+	"Hablante" n mf sg
+	"Presidente" n f sg
+	"Interlocutor" n f sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<first>" det ord sp
+	"primer" det ord GD ND
+"<royal>" adj
+	"real" adj mf
+"<palace>" n sg
+	"palacio" n m sg
+"<construct>" vblex pp
+	"construir" vblex pp
+"<on>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<site>" n sg
+	"sitio" n m sg
+	"yacimiento" n f sg
+	"emplazamiento" n f sg
+"<date>" vblex pp
+	"datar" vblex pp
+"<from>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<11th century>" n sg
+	"siglo XI" n m sg
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<become>" vblex past
+	"acaecer" vblex past
+	"devenir" vblex past
+	"acontecer" vblex past
+	"llegar# a ser" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<primary>" adj
+	"primario" adj
+"<residence>" n sg
+	"residencia" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<King>" n pl
+	"Rey" n m pl
+"<of>" pr
+	"de" pr
+"<England>" np loc sg
+	"Inglaterra" np loc f sg
+"<until>" cnjadv
+	"hasta que" cnjadv
+"<fire>" n sg
+	"fuego" n m sg
+"<destroy>" vblex past
+	"destruir" vblex past
+"<much>" adv
+	"mucho" adv
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<complex>" n sg
+	"complejo" n m sg
+"<in>" pr
+	"en" pr
+"<1512>" num
+	"1512" num
+"<.>" sent
+	"." sent
+"<After>" cnjadv
+	"Después de que" cnjadv
+"<that>" prn tn mf sg
+	"aquello" prn tn m sp
+"<,>" cm
+	"," cm
+"<prpers>" prn subj p3 nt sg
+	"prpers" prn tn p3 m sg
+"<serve>" vblex past
+	"servir" vblex past
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<home>" n sg
+	"casa" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<of>" pr
+	"de" pr
+"<England>" np loc sg
+	"Inglaterra" np loc f sg
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<have>" vbhaver past
+	"haber" vbhaver past
+"<meet>" vblex pp
+	"cumplir" vblex pp
+	"conocer" vblex pp
+"<there>" adv
+	"allí" adv
+"<since>" pr
+	"desde" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<13th century>" n sg
+	"siglo XIII" n m sg
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<also>" adv
+	"también" adv
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<seat>" n sg
+	"escaño" n m sg
+	"asiento" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Royal court>" n pl
+	"Corte real" n m pl
+"<of>" pr
+	"de" pr
+"<Justice>" np ant m sg
+	"Justice" np ant m sg
+"<,>" cm
+	"," cm
+"<base>" vblex pp
+	"basar" vblex pp
+"<in>" pr
+	"en" pr
+"<and>" cnjcoo
+	"y" cnjcoo
+"<around>" adv
+	"alrededor" adv
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Hall>" n sg
+	"Sala" n f sg
+	"Salón" n f sg
+"<.>" sent
+	"." sent
+"<In>" pr
+	"En" pr
+"<1834>" num
+	"1834" num
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<even>" adv
+	"incluso" adv
+"<great>" adj sint comp
+	"sumo" adj comp
+	"grande" adj mf comp
+"<fire>" n sg
+	"fuego" n m sg
+"<*ravaged>"
+	"*ravaged"
+"<the>" det def sp
+	"el" det def GD ND
+"<heavily>" adv
+	"fuertemente" adv
+"<rebuild>" vblex past
+	"reconstruir" vblex past
+"<House>" n pl
+	"Casa" n f pl
+	"Cámara" n f pl
+"<of>" pr
+	"de" pr
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<the>" det def sp
+	"el" det def GD ND
+"<only>" adj
+	"único" adj
+"<significant>" adj
+	"significativo" adj
+"<medieval>" adj
+	"medieval" adj mf
+"<structure>" n pl
+	"estructura" n f pl
+"<to>" pr
+	"a" pr
+"<survive>" vblex inf
+	"sobrevivir" vblex inf
+"<be>" vbser past
+	"ser" vbser past
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Hall>" n sg
+	"Sala" n f sg
+	"Salón" n f sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<*Cloisters>"
+	"*Cloisters"
+"<of>" pr
+	"de" pr
+"<*St>"
+	"*St"
+"<Stephen>" np ant m sg
+	"Stephen" np ant m sg
+"<be>" vbser pri p3 sg
+	"ser" vbser pri p3 sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<Chapel>" n sg
+	"Capilla" n f sg
+"<of>" pr
+	"de" pr
+"<*St>"
+	"*St"
+"<Mary>" np ant f sg
+	"Mary" np ant f sg
+"<*Undercroft>"
+	"*Undercroft"
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<the>" det def sp
+	"el" det def GD ND
+"<Jewel>" n sg
+	"Joya" n f sg
+"<Tower>" n sg
+	"Torre" n f sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<In>" pr
+	"En" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<subsequent>" adj
+	"subsiguiente" adj mf
+"<competition>" n sg
+	"competición" n f sg
+	"competencia" n f sg
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<reconstruction>" n sg
+	"reconstrucción" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<architect>" n sg
+	"arquitecto" n GD sg
+"<Charles>" np ant m sg
+	"Charles" np ant m sg
+"<Barry>" np ant m sg
+	"Barry" np ant m sg
+"<win>" vblex past
+	"ganar" vblex past
+"<with>" pr
+	"con" pr
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<design>" n sg
+	"diseño" n m sg
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<new>" adj sint
+	"nuevo" adj
+"<building>" n pl
+	"edificio" n m pl
+	"construcción" n f pl
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<gothic>" adj
+	"gótico" adj
+"<Revival>" n sg
+	"Renacimiento" n f sg
+	"Resurgimiento" n m sg
+"<style>" n sg
+	"moda" n f sg
+	"estilo" n m sg
+"<,>" cm
+	"," cm
+"<specifically>" adv
+	"específicamente" adv
+"<inspired by>" adj
+	"inspirado# en" adj
+"<the>" det def sp
+	"el" det def GD ND
+"<english>" adj
+	"inglés" adj
+"<Perpendicular>" adj
+	"Perpendicular" adj mf
+"<gothic>" adj
+	"gótico" adj
+"<style>" n sg
+	"moda" n f sg
+	"estilo" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<14>" num ord
+	"14" num ord GD sg
+"<–>" guio
+	"–" guio
+"<16>" num ord
+	"16" num ord GD sg
+"<century>" n pl
+	"siglo" n m pl
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<remains>" n pl
+	"resto" n m pl
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Old>" adj sint
+	"Viejo" adj
+"<Palace>" n sg
+	"Palacio" n m sg
+"<(>" lpar
+	"(" lpar
+"<except>" pr
+	"excepto" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*detached>"
+	"*detached"
+"<Jewel>" n sg
+	"Joya" n f sg
+"<Tower>" n sg
+	"Torre" n f sg
+"<)>" rpar
+	")" rpar
+"<be>" vbser past
+	"ser" vbser past
+"<incorporate>" vblex pp
+	"incorporar" vblex pp
+"<into>" pr
+	"a" pr
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<much>" det qnt sg
+	"mucho" det qnt GD sg
+"<large>" adj sint comp
+	"grande" adj mf comp
+"<replacement>" n sg
+	"sustitución" n f sg
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<contain>" vblex pri p3 sg
+	"contener" vblex pri p3 sg
+"<over>" adv
+	"encima" adv
+"<1,100>" num
+	"1,100" num
+"<room>" n pl
+	"sala" n f pl
+	"espacio" n f pl
+	"habitación" n f pl
+"<organise>" vblex past
+	"organizar" vblex past
+"<*symmetrically>"
+	"*symmetrically"
+"<around>" adv
+	"alrededor" adv
+"<two>" num sp
+	"dos" num mf sp
+"<series>" n pl
+	"serie" n f pl
+"<of>" pr
+	"de" pr
+"<courtyard>" n pl
+	"patio" n m pl
+"<and>" cnjcoo
+	"y" cnjcoo
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<have>" vblex pri p3 sg
+	"tener" vblex pri p3 sg
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<floor>" n sg
+	"piso" n m sg
+	"fondo" n f sg
+	"pista" n f sg
+	"suelo" n f sg
+"<area>" n sg
+	"área" n f sg
+	"campo" n f sg
+	"espacio" n f sg
+"<of>" pr
+	"de" pr
+"<112,476>" num
+	"112,476" num
+"<*m2>"
+	"*m2"
+"<(>" lpar
+	"(" lpar
+"<1,210>" num
+	"1,210" num
+"<,>" cm
+	"," cm
+"<680>" num
+	"680" num
+"<*sq>"
+	"*sq"
+"<*ft>"
+	"*ft"
+"<)>" rpar
+	")" rpar
+"<.>" sent
+	"." sent
+"<[>" lpar
+	"[" lpar
+"<1>" num
+	"1" num
+"<]>" rpar
+	"]" rpar
+"<Part>" n sg
+	"Parte" n f sg
+	"Papel" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<New>" adj sint
+	"Nuevo" adj
+"<Palace>" n sg
+	"Palacio" n m sg
+"<'s>" gen
+	""
+"<area>" n sg
+	"área" n f sg
+	"campo" n f sg
+	"espacio" n f sg
+"<of>" pr
+	"de" pr
+"<3.24>" num
+	"3.24" num
+"<hectare>" n pl
+	"hectárea" n f pl
+"<(>" lpar
+	"(" lpar
+"<8>" num
+	"8" num
+"<acre>" n pl
+	"acre" n m pl
+"<)>" rpar
+	")" rpar
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<*reclaimed>"
+	"*reclaimed"
+"<from>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<River>" n sg
+	"Río" n m sg
+"<*Thames>"
+	"*Thames"
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<be>" vbser pri p3 sg
+	"ser" vbser pri p3 sg
+"<the>" det def sp
+	"el" det def GD ND
+"<setting>" n sg
+	"encuadre" n m sg
+"<of>" pr
+	"de" pr
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<nearly>" adv
+	"casi" adv
+"<300>" num
+	"300" num
+"<->" guio
+	"-" guio
+"<metre>" n sg
+	"metro" n m sg
+"<long>" adv
+	"mucho tiempo" adv
+"<(>" lpar
+	"(" lpar
+"<980>" num
+	"980" num
+"<*ft>"
+	"*ft"
+"<)>" rpar
+	")" rpar
+"<façade>" n sg
+	"fachada" n f sg
+"<,>" cm
+	"," cm
+"<[>" lpar
+	"[" lpar
+"<1>" num
+	"1" num
+"<]>" rpar
+	"]" rpar
+"<call>" vblex past
+	"llamar" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<River>" n sg
+	"Río" n m sg
+"<Front>" n sg
+	"Frente" n mf sg
+"<.>" sent
+	"." sent
+"<Augustus>" np ant m sg
+	"Augustus" np ant m sg
+"<*Pugin>"
+	"*Pugin"
+"<,>" cm
+	"," cm
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<leading>" adj
+	"principal" adj mf
+"<authority>" n sg
+	"potestad" n f sg
+	"autoridad" n f sg
+"<on>" pr
+	"en" pr
+"<gothic>" adj
+	"gótico" adj
+"<architecture>" n sg
+	"arquitectura" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<style>" n sg
+	"moda" n f sg
+	"estilo" n m sg
+"<,>" cm
+	"," cm
+"<assist>" vblex pp
+	"asistir" vblex pp
+"<Barry>" np ant m sg
+	"Barry" np ant m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<design>" vblex past
+	"diseñar" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<interior>" n sg
+	"interior" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<.>" sent
+	"." sent
+"<Construction>" n sg
+	"Construcción" n f sg
+"<start>" vblex pp
+	"empezar" vblex pp
+"<in>" pr
+	"en" pr
+"<1840>" num
+	"1840" num
+"<and>" cnjcoo
+	"y" cnjcoo
+"<last>" vblex pp
+	"durar" vblex pp
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<30>" num
+	"30" num
+"<year>" n pl
+	"año" n m pl
+"<,>" cm
+	"," cm
+"<suffer>" vblex ger
+	"padecer" vblex ger
+"<great>" adj sint
+	"sumo" adj
+	"grande" adj mf
+"<delay>" n pl
+	"retraso" n m pl
+"<and>" cnjcoo
+	"y" cnjcoo
+"<cost overrun>" n pl
+	"sobrecoste" n m pl
+"<,>" cm
+	"," cm
+"<as well as>" cnjadv
+	"así como" cnjadv
+"<the>" det def sp
+	"el" det def GD ND
+"<death>" n sg
+	"muerte" n f sg
+"<of>" pr
+	"de" pr
+"<both>" det ind pl
+	"ambos" det ind GD pl
+"<leading>" adj
+	"principal" adj mf
+"<architect>" n pl
+	"arquitecto" n GD pl
+"<;>" sent
+	";" sent
+"<work>" n pl
+	"obra" n f pl
+	"trabajo" n m pl
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<interior>" n sg
+	"interior" n m sg
+"<decoration>" n sg
+	"decoración" n f sg
+"<continue>" vblex past
+	"continuar" vblex past
+"<*intermittently>"
+	"*intermittently"
+"<well>" adv
+	"bien" adv
+"<into>" pr
+	"a" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<20th century>" n sg
+	"siglo XX" n m sg
+"<.>" sent
+	"." sent
+"<Major>" adj
+	"Importante" adj mf
+"<conservation>" n sg
+	"conservación" n f sg
+"<work>" n sg
+	"obra" n f sg
+	"trabajo" n m sg
+"<have>" vbhaver pri p3 sg
+	"haber" vbhaver pri p3 sg
+"<take# place>" vblex pp
+	"tener# lugar" vblex pp
+"<since then>" adv
+	"desde entonces" adv
+"<to>" pr
+	"a" pr
+"<reverse>" vblex inf
+	"revocar" vblex inf
+	"invertir" vblex inf
+"<the>" det def sp
+	"el" det def GD ND
+"<effect>" n pl
+	"efecto" n m pl
+"<of>" pr
+	"de" pr
+"<London>" np loc sg
+	"Londres" np loc m sg
+"<'s>" gen
+	""
+"<air>" n sg
+	"aire" n m sg
+"<pollution>" n sg
+	"contaminación" n f sg
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<extensive>" adj
+	"extenso" adj
+"<repair>" n pl
+	"reparación" n f pl
+"<follow>" vblex past
+	"seguir" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<Second World War>" np al sg
+	"Segunda Guerra mundial" np al f sg
+"<,>" cm
+	"," cm
+
+"<include>" vblex ger
+	"incluir" vblex ger
+"<the>" det def sp
+	"el" det def GD ND
+"<reconstruction>" n sg
+	"reconstrucción" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*Commons>"
+	"*Commons"
+"<Chamber>" n sg
+	"Cuarto" n m sg
+"<follow>" vblex ger
+	"seguir" vblex ger
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<bomb>" vblex ger
+	"bombardear" vblex ger
+"<in>" pr
+	"en" pr
+"<1941>" num
+	"1941" num
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<be>" vbser pri p3 sg
+	"ser" vbser pri p3 sg
+"<one>" prn tn mf sg
+	"uno" prn tn GD sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<centre>" n pl
+	"centro" n m pl
+"<of>" pr
+	"de" pr
+"<political>" adj
+	"político" adj
+"<life>" n sg
+	"vida" n f sg
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<United Kingdom>" np loc sg
+	"Reino Unido" np loc m sg
+"<;>" sent
+	";" sent
+ "
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+" 
+"<have>" vbhaver pri p3 sg
+	"haber" vbhaver pri p3 sg
+"<become>" vblex pp
+	"acaecer" vblex pp
+	"devenir" vblex pp
+	"acontecer" vblex pp
+	"llegar# a ser" vblex pp
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<*metonym>"
+	"*metonym"
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<UK>" np loc sg
+	"Reino Unido" np loc m sg
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<the>" det def sp
+	"el" det def GD ND
+"<british>" adj
+	"británico" adj
+"<Government>" n sg
+	"Gobierno" n m sg
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<the>" det def sp
+	"el" det def GD ND
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<system>" n sg
+	"sistema" n m sg
+"<of>" pr
+	"de" pr
+"<government>" n sg
+	"gobierno" n m sg
+"<commemorate>" vblex pri p3 sg
+	"conmemorar" vblex pri p3 sg
+"<the>" det def sp
+	"el" det def GD ND
+"<name>" n sg
+	"nombre" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<palace>" n sg
+	"palacio" n m sg
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<Elizabeth>" np ant f sg
+	"Elizabeth" np ant f sg
+"<Tower>" n sg
+	"Torre" n f sg
+"<,>" cm
+	"," cm
+"<in particular>" adv
+	"en particular" adv
+"<,>" cm
+	"," cm
+"<often>" adv
+	"a menudo" adv
+"<refer>" vblex pp
+	"referir" vblex pp
+"<to>" pr
+	"a" pr
+"<by>" pr
+	"por" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<name>" n sg
+	"nombre" n m sg
+"<of>" pr
+	"de" pr
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<main>" adj
+	"principal" adj mf
+"<bell>" n sg
+	"timbre" n m sg
+	"campana" n f sg
+"<,>" cm
+	"," cm
+"<Big>" adj sint
+	"Grande" adj mf
+"<Ben>" np ant m sg
+	"Ben" np ant m sg
+"<,>" cm
+	"," cm
+"<have>" vbhaver pri p3 sg
+	"haber" vbhaver pri p3 sg
+"<become>" vblex pp
+	"acaecer" vblex pp
+	"devenir" vblex pp
+	"acontecer" vblex pp
+	"llegar# a ser" vblex pp
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<iconic>" adj
+	"icónico" adj
+"<landmark>" n sg
+	"hito" n m sg
+"<of>" pr
+	"de" pr
+"<London>" np loc sg
+	"Londres" np loc m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<United Kingdom>" np loc sg
+	"Reino Unido" np loc m sg
+"<in general>" adv
+	"en general" adv
+"<,>" cm
+	"," cm
+"<one>" prn tn mf sg
+	"uno" prn tn GD sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<most>" preadv
+	"más" preadv
+"<popular>" adj
+	"popular" adj mf
+"<tourist>" adj
+	"turístico" adj
+"<attraction>" n pl
+	"atracción" n f pl
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<city>" n sg
+	"ciudad" n f sg
+"<,>" cm
+	"," cm
+"<and>" cnjcoo
+	"y" cnjcoo
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<emblem>" n sg
+	"emblema" n m sg
+"<of>" pr
+	"de" pr
+"<parliamentary>" adj
+	"parlamentario" adj
+"<democracy>" n sg
+	"democracia" n f sg
+"<.>" sent
+	"." sent
+"<*Tsar>"
+	"*Tsar"
+"<Nicholas>" np ant m sg
+	"Nicholas" np ant m sg
+"<I>" num mf sg
+	"I" num mf sg
+"<of>" pr
+	"de" pr
+"<Russia>" np loc sg
+	"Rusia" np loc f sg
+"<call>" vblex past
+	"llamar" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<new>" adj sint
+	"nuevo" adj
+"<palace>" n sg
+	"palacio" n m sg
+ "
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<dream>" n sg
+	"sueño" n m sg
+"<in>" pr
+	"en" pr
+"<stone>" n sg
+	"hueso" n m sg
+	"piedra" n f sg
+"
+"<.>" sent
+	"." sent
+"<[>" lpar
+	"[" lpar
+"<4>" num
+	"4" num
+"<]>" rpar
+	"]" rpar
+"<[>" lpar
+	"[" lpar
+"<5>" num
+	"5" num
+"<]>" rpar
+	"]" rpar
+"<The>" det def sp
+	"El" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<have>" vbhaver pri p3 sg
+	"haber" vbhaver pri p3 sg
+"<be>" vbser pp
+	"ser" vbser pp
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<Grade>" n sg
+	"Nota" n f sg
+	"Grado" n m sg
+"<prpers>" prn subj p1 mf sg
+	"prpers" prn tn p1 mf sg
+"<list>" vblex past
+	"listar" vblex past
+"<build>" vblex ger
+	"construir" vblex ger
+"<since>" adv
+	"desde entonces" adv
+"<1970>" num
+	"1970" num
+"<and>" cnjcoo
+	"y" cnjcoo
+"<part>" n sg
+	"parte" n f sg
+	"papel" n f sg
+"<of>" pr
+	"de" pr
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<UNESCO>" n acr sg
+	"UNESCO" n acr f sg
+"<World>" adj
+	"Mundial" adj mf
+"<Heritage>" n sg
+	"Patrimonio" n m sg
+"<Site>" n sg
+	"Sitio" n m sg
+	"Yacimiento" n f sg
+	"Emplazamiento" n f sg
+"<since>" adv
+	"desde entonces" adv
+"<1987>" num
+	"1987" num
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<site>" n sg
+	"sitio" n m sg
+	"yacimiento" n f sg
+	"emplazamiento" n f sg
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<strategically>" adv
+	"estratégicamente" adv
+"<important>" adj
+	"importante" adj mf
+"<during>" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Middle>" adj
+	"Medio" adj
+"<Age>" n pl
+	"Edad" n f pl
+"<,>" cm
+	"," cm
+"<as>" cnjadv
+	"como" cnjadv
+	"cuando" cnjadv
+"<prpers>" prn subj p3 nt sg
+	"prpers" prn tn p3 m sg
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<locate>" vblex pp
+	"localizar" vblex pp
+"<on>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<bank# of the river>" n pl
+	"orilla# del río" n f pl
+"<*Thames>"
+	"*Thames"
+"<.>" sent
+	"." sent
+"<Know>" vblex pp
+	"Saber" vblex pp
+	"Conocer" vblex pp
+"<in>" pr
+	"en" pr
+"<medieval>" adj
+	"medieval" adj mf
+"<time>" n pl
+	"tiempo" n m ND pl
+"<as>" pr
+	"como" pr
+"<*Thorney>"
+	"*Thorney"
+"<Island>" n sg
+	"Isla" n f sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<site>" n sg
+	"sitio" n m sg
+	"yacimiento" n f sg
+	"emplazamiento" n f sg
+"<may>" vaux inf
+	"poder" vbmod inf
+"<have>" vbhaver inf
+	"haber" vbhaver inf
+"<be>" vbser pp
+	"ser" vbser pp
+"<first>" adv
+	"primero" adv
+"<->" guio
+	"-" guio
+"<use>" vblex pp
+	"utilizar" vblex pp
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<royal>" adj
+	"real" adj mf
+"<residence>" n sg
+	"residencia" n f sg
+"<by>" pr
+	"por" pr
+"<*Canute>"
+	"*Canute"
+"<the>" det def sp
+	"el" det def GD ND
+"<Great>" adj sint
+	"Sumo" adj
+	"Grande" adj mf
+"<during>" pr
+	"durante" pr
+"<his>" det pos sp
+	"suyo" det pos mf ND
+"<reign>" n sg
+	"reinado" n m sg
+"<from>" pr
+	"de" pr
+"<1016>" num
+	"1016" num
+"<to>" pr
+	"a" pr
+"<1035>" num
+	"1035" num
+"<.>" sent
+	"." sent
+"<*St>"
+	"*St"
+"<Edward>" np ant m sg
+	"Edward" np ant m sg
+"<the>" det def sp
+	"el" det def GD ND
+"<Confessor>" n sg
+	"Confesor" n m sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<penultimate>" adj
+	"penúltimo" adj
+"<anglo-saxon>" adj
+	"anglosajón" adj
+"<monarch>" n sg
+	"monarca" n mf sg
+"<of>" pr
+	"de" pr
+"<England>" np loc sg
+	"Inglaterra" np loc f sg
+"<,>" cm
+	"," cm
+"<build>" vblex past
+	"construir" vblex past
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<royal>" adj
+	"real" adj mf
+"<palace>" n sg
+	"palacio" n m sg
+"<on>" pr
+	"en" pr
+"<*Thorney>"
+	"*Thorney"
+"<Island>" n sg
+	"Isla" n f sg
+"<just>" adv
+	"sólo" adv
+	"justo" adv
+	"exactamente" adv
+"<west>" adv
+	"al oeste" adv
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<City>" n sg
+	"Ciudad" n f sg
+"<of>" pr
+	"de" pr
+"<London>" np loc sg
+	"Londres" np loc m sg
+"<at about>" pr
+	"sobre" pr
+"<the same>" det ind sp
+	"el mismo" det ind GD ND
+"<time>" n sg
+	"tiempo" n m ND sg
+"<as>" cnjadv
+	"como" cnjadv
+	"cuando" cnjadv
+"<prpers>" prn subj p3 m sg
+	"prpers" prn tn p3 m sg
+"<build>" vblex past
+	"construir" vblex past
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Abbey>" n sg
+	"Abadía" n f sg
+"<(>" lpar
+	"(" lpar
+"<1045>" num
+	"1045" num
+"<–>" guio
+	"–" guio
+"<1050>" num
+	"1050" num
+"<)>" rpar
+	")" rpar
+"<.>" sent
+	"." sent
+"<*Thorney>"
+	"*Thorney"
+"<Island>" n sg
+	"Isla" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<the>" det def sp
+	"el" det def GD ND
+"<surrounding>" adj
+	"circundante" adj mf
+"<area>" n sg
+	"área" n f sg
+	"campo" n f sg
+	"espacio" n f sg
+"<soon>" adv
+	"pronto" adv
+"<become>" vblex past
+	"acaecer" vblex past
+	"devenir" vblex past
+	"acontecer" vblex past
+	"llegar# a ser" vblex past
+"<know>" vblex pp
+	"saber" vblex pp
+	"conocer" vblex pp
+"<as>" cnjadv
+	"como" cnjadv
+	"cuando" cnjadv
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<(>" lpar
+	"(" lpar
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<contraction>" n sg
+	"contracción" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<word>" n pl
+	"palabra" n f pl
+"<West>" adv
+	"Al oeste" adv
+"<*Minster>"
+	"*Minster"
+"<)>" rpar
+	")" rpar
+"<.>" sent
+	"." sent
+"<Neither>" adv
+	"Tampoco" adv
+"<the>" det def sp
+	"el" det def GD ND
+"<building>" n pl
+	"edificio" n m pl
+	"construcción" n f pl
+"<use>" vblex past
+	"utilizar" vblex past
+"<by>" pr
+	"por" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Anglo-Saxon>" n pl
+	"anglosajón" n GD pl
+"<nor>" cnjcoo
+	"ni" cnjcoo
+"<that>" prn tn mf pl
+	"aquel" prn tn GD pl
+"<use>" vblex pp
+	"utilizar" vblex pp
+"<by>" pr
+	"por" pr
+"<William>" np ant m sg
+	"William" np ant m sg
+"<I>" num mf sg
+	"I" num mf sg
+"<survive>" vblex pres
+	"sobrevivir" vblex pres
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<old>" adj sint sup
+	"viejo" adj sup
+"<exist>" vblex ger
+	"existir" vblex ger
+"<part>" n sg
+	"parte" n f sg
+	"papel" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<(>" lpar
+	"(" lpar
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Hall>" n sg
+	"Sala" n f sg
+	"Salón" n f sg
+"<)>" rpar
+	")" rpar
+"<date>" n pl
+	"cita" n f pl
+	"fecha" n f pl
+"<from>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<reign>" n sg
+	"reinado" n m sg
+"<of>" pr
+	"de" pr
+"<William>" np ant m sg
+	"William" np ant m sg
+"<I>" num mf sg
+	"I" num mf sg
+"<'s>" gen
+	""
+"<successor>" n sg
+	"sucesor" n GD sg
+"<,>" cm
+	"," cm
+"<King>" np cog sg
+	"King" np cog mf sg
+"<William>" np ant m sg
+	"William" np ant m sg
+"<II>" num mf sg
+	"II" num mf sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<the>" det def sp
+	"el" det def GD ND
+"<monarch>" n sg
+	"monarca" n mf sg
+"<'s>" gen
+	""
+"<principal>" adj
+	"principal" adj mf
+"<residence>" n sg
+	"residencia" n f sg
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<late>" adj sint
+	"tardío" adj
+"<Medieval>" adj
+	"Medieval" adj mf
+"<period>" n sg
+	"periodo" n m sg
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<predecessor>" n sg
+	"predecesor" n GD sg
+"<of>" pr
+	"de" pr
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<Curia>" n sg
+	"Curia" n f sg
+"<*Regis>"
+	"*Regis"
+"<(>" lpar
+	"(" lpar
+"<Royal>" adj
+	"Real" adj mf
+"<Council>" n sg
+	"Consejo" n m sg
+"<)>" rpar
+	")" rpar
+"<,>" cm
+	"," cm
+"<meet>" vblex pp
+	"cumplir" vblex pp
+	"conocer" vblex pp
+"<in>" pr
+	"en" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Hall>" n sg
+	"Sala" n f sg
+	"Salón" n f sg
+"<(>" lpar
+	"(" lpar
+"<although>" cnjadv
+	"a pesar de que" cnjadv
+"<prpers>" prn subj p3 nt sg
+	"prpers" prn tn p3 m sg
+"<follow>" vblex past
+	"seguir" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<King>" n sg
+	"Rey" n m sg
+"<when>" adv itg
+	"cuándo" adv itg
+"<prpers>" prn subj p3 m sg
+	"prpers" prn tn p3 m sg
+"<move>" vblex past
+	"mover" vblex past
+	"moverse" vblex pron past
+"<to>" pr
+	"a" pr
+"<other>" det ind sp
+	"otro" det ind GD ND
+"<palace>" n pl
+	"palacio" n m pl
+"<)>" rpar
+	")" rpar
+"<.>" sent
+	"." sent
+"<Simon>" np ant m sg
+	"Simon" np ant m sg
+"<*de>"
+	"*de"
+"<*Montfort>"
+	"*Montfort"
+"<'s>" gen
+	""
+"<parliament>" n sg
+	"parlamento" n m sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<first>" det ord sp
+	"primer" det ord GD ND
+"<to>" pr
+	"a" pr
+"<include>" vblex inf
+	"incluir" vblex inf
+"<representative>" n pl
+	"representante" n mf pl
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<major>" adj
+	"importante" adj mf
+"<town>" n pl
+	"ciudad" n f pl
+"<,>" cm
+	"," cm
+"<meet>" vblex pp
+	"cumplir" vblex pp
+	"conocer" vblex pp
+"<at>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<in>" pr
+	"en" pr
+"<1265>" num
+	"1265" num
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+ "
+"<Model>" n sg
+	"Modelo" n m sg
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<first>" det ord sp
+	"primer" det ord GD ND
+"<official>" adj
+	"oficial" adj mf
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<of>" pr
+	"de" pr
+"<England>" np loc sg
+	"Inglaterra" np loc f sg
+"<,>" cm
+	"," cm
+"<meet>" vblex past
+	"cumplir" vblex past
+	"conocer" vblex past
+"<there>" adv
+	"allí" adv
+"<in>" pr
+	"en" pr
+"<1295>" num
+	"1295" num
+"<,>" cm
+	"," cm
+"<[>" lpar
+	"[" lpar
+"<9>" num
+	"9" num
+"<]>" rpar
+	"]" rpar
+"<and>" cnjcoo
+	"y" cnjcoo
+"<almost>" adv
+	"casi" adv
+"<all>" predet sp
+	"todo" predet GD ND
+"<subsequent>" adj
+	"subsiguiente" adj mf
+"<english>" adj
+	"inglés" adj
+"<Parliament>" n pl
+	"Parlamento" n m pl
+"<and>" cnjcoo
+	"y" cnjcoo
+"<then>" adv
+	"entonces" adv
+"<,>" cm
+	"," cm
+"<after>" cnjadv
+	"después de que" cnjadv
+"<1707>" num
+	"1707" num
+"<,>" cm
+	"," cm
+"<all>" prn tn mf sp
+	"todo" prn tn m ND
+"<british>" adj
+	"británico" adj
+"<Parliament>" n pl
+	"Parlamento" n m pl
+"<have>" vbhaver inf
+	"haber" vbhaver inf
+"<meet>" vblex pp
+	"cumplir" vblex pp
+	"conocer" vblex pp
+"<at>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<In>" pr
+	"En" pr
+"<1512>" num
+	"1512" num
+"<,>" cm
+	"," cm
+"<during>" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<early>" adj sint
+	"temprano" adj
+"<year>" n pl
+	"año" n m pl
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<reign>" n sg
+	"reinado" n m sg
+"<of>" pr
+	"de" pr
+"<King>" np cog sg
+	"King" np cog mf sg
+"<Henry>" np ant m sg
+	"Henry" np ant m sg
+"<VIII>" num mf sg
+	"VIII" num mf sg
+"<,>" cm
+	"," cm
+"<fire>" n sg
+	"fuego" n m sg
+"<destroy>" vblex past
+	"destruir" vblex past
+"<the>" det def sp
+	"el" det def GD ND
+"<royal>" adj
+	"real" adj mf
+"<residential>" adj
+	"residencial" adj mf
+"<(>" lpar
+	"(" lpar
+"
+"<*privy>"
+	"*privy"
+"
+"<)>" rpar
+	")" rpar
+"<area>" n sg
+	"área" n f sg
+	"campo" n f sg
+	"espacio" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<palace>" n sg
+	"palacio" n m sg
+"<.>" sent
+	"." sent
+"<[>" lpar
+	"[" lpar
+"<10>" num
+	"10" num
+"<]>" rpar
+	"]" rpar
+"<In>" pr
+	"En" pr
+"<1534>" num
+	"1534" num
+"<,>" cm
+	"," cm
+"<Henry>" np ant m sg
+	"Henry" np ant m sg
+"<VIII>" num mf sg
+	"VIII" num mf sg
+"<acquire>" vblex past
+	"adquirir" vblex past
+"<York>" np loc sg
+	"York" np loc m sg
+"<Place>" n sg
+	"Sitio" n m sg
+"<from>" pr
+	"de" pr
+"<Cardinal>" adj
+	"Cardinal" adj mf
+"<Thomas>" np ant m sg
+	"Thomas" np ant m sg
+"<*Wolsey>"
+	"*Wolsey"
+"<,>" cm
+	"," cm
+"<[>" lpar
+	"[" lpar
+"<11>" num
+	"11" num
+"<]>" rpar
+	"]" rpar
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<powerful>" adj
+	"poderoso" adj
+	"potente" adj mf
+"<minister>" n sg
+	"ministro" n GD sg
+"<who>" prn itg m sp
+	"quién" prn itg mf ND
+"<have>" vbhaver past
+	"haber" vbhaver past
+"<lose>" vblex pp
+	"perder" vblex pp
+"<the>" det def sp
+	"el" det def GD ND
+"<King>" n sg
+	"Rey" n m sg
+"<'s>" gen
+	""
+"<favour>" n sg
+	"favor" n m sg
+"<.>" sent
+	"." sent
+"<Rename>" vblex ger
+	"Rebautizar" vblex ger
+"<prpers>" prn obj p3 nt sg
+	"prpers" prn pro p3 m sg
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<of>" pr
+	"de" pr
+"<*Whitehall>"
+	"*Whitehall"
+"<,>" cm
+	"," cm
+"<Henry>" np ant m sg
+	"Henry" np ant m sg
+"<use>" vblex past
+	"utilizar" vblex past
+"<prpers>" prn obj p3 nt sg
+	"prpers" prn pro p3 m sg
+"<as>" cnjadv
+	"como" cnjadv
+	"cuando" cnjadv
+"<his>" det pos sp
+	"suyo" det pos mf ND
+"<principal>" adj
+	"principal" adj mf
+"<residence>" n sg
+	"residencia" n f sg
+"<.>" sent
+	"." sent
+"<Although>" cnjadv
+	"A pesar de que" cnjadv
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<officially>" adv
+	"oficialmente" adv
+"<remain>" vblex past
+	"quedar" vblex past
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<royal>" adj
+	"real" adj mf
+"<palace>" n sg
+	"palacio" n m sg
+"<,>" cm
+	"," cm
+"<prpers>" prn subj p3 nt sg
+	"prpers" prn tn p3 m sg
+
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<use>" vblex pp
+	"utilizar" vblex pp
+"<by>" pr
+	"por" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<two>" num sp
+	"dos" num mf sp
+"<House>" n pl
+	"Casa" n f pl
+	"Cámara" n f pl
+"<of>" pr
+	"de" pr
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<by>" pr
+	"por" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<various>" det ind pl
+	"varios" det ind GD pl
+"<royal>" adj
+	"real" adj mf
+"<law>" n sg
+	"ley" n f sg
+	"derecho" n f sg
+	"abogacía" n f sg
+"<court>" n pl
+	"corte" n f pl
+	"cancha" n f pl
+	"juzgado" n m pl
+	"tribunal" n m pl
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<Because>" cnjadv
+	"Porque" cnjadv
+"<prpers>" prn subj p3 nt sg
+	"prpers" prn tn p3 m sg
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<originally>" adv
+	"originalmente" adv
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<royal>" adj
+	"real" adj mf
+"<residence>" n sg
+	"residencia" n f sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<include>" vblex pp
+	"incluir" vblex pp
+"<no>" det ind sp
+	"ninguno" det ind GD sg
+"<purpose>" n sg
+	"propósito" n m sg
+	"finalidad" n f sg
+"<->" guio
+	"-" guio
+"<build>" vblex past
+	"construir" vblex past
+"<chamber>" n pl
+	"cuarto" n m pl
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<two>" num sp
+	"dos" num mf sp
+"<House>" n pl
+	"Casa" n f pl
+	"Cámara" n f pl
+"<.>" sent
+	"." sent
+"<Important>" adj
+	"Importante" adj mf
+"<state>" adj
+	"estatal" adj mf
+"<ceremony>" n pl
+	"ceremonia" n f pl
+"<be>" vbser past
+	"ser" vbser past
+"<hold>" vblex pp
+	"aguantar" vblex pp
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Paint>" vblex pp
+	"Pintar" vblex pp
+"<Chamber>" n sg
+	"Cuarto" n m sg
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<have>" vbhaver past
+	"haber" vbhaver past
+"<be>" vbser pp
+	"ser" vbser pp
+"<originally>" adv
+	"originalmente" adv
+"<build>" vblex pp
+	"construir" vblex pp
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<13th century>" n sg
+	"siglo XIII" n m sg
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<main>" adj
+	"principal" adj mf
+"<*bedchamber>"
+	"*bedchamber"
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<King>" np cog sg
+	"King" np cog mf sg
+"<Henry>" np ant m sg
+	"Henry" np ant m sg
+"<III>" num mf sg
+	"III" num mf sg
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<Lord>" n pl
+	"Señor" n GD pl
+"<originally>" adv
+	"originalmente" adv
+"<meet>" vblex pp
+	"cumplir" vblex pp
+	"conocer" vblex pp
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Queen>" n sg
+	"Rey" n f sg
+"<'s>" gen
+	""
+"<Chamber>" n sg
+	"Cuarto" n m sg
+"<,>" cm
+	"," cm
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<modest>" adj
+	"modesto" adj
+"<Medieval>" adj
+	"Medieval" adj mf
+"<hall>" n sg
+	"sala" n f sg
+	"salón" n f sg
+"<towards>" pr
+	"hacia" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<southern>" adj
+	"del sur" adj mf
+"<end>" n sg
+	"fin" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<complex>" n sg
+	"complejo" n m sg
+"<,>" cm
+	"," cm
+"<with>" pr
+	"con" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<adjoining>" adj
+	"contiguo" adj
+"<Prince>" n sg
+	"Príncipe" n m sg
+"<'s>" gen
+	""
+"<Chamber>" n sg
+	"Cuarto" n m sg
+"<use>" vblex pp
+	"utilizar" vblex pp
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*robing>"
+	"*robing"
+"<room>" n sg
+	"sala" n f sg
+	"espacio" n f sg
+	"habitación" n f sg
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<*peers>"
+	"*peers"
+"<and>" cnjcoo
+	"y" cnjcoo
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<monarch>" n sg
+	"monarca" n mf sg
+"<during>" pr
+	"durante" pr
+"<state>" adj
+	"estatal" adj mf
+"<opening>" n pl
+	"inicio" n f pl
+	"apertura" n f pl
+"<.>" sent
+	"." sent
+"<In>" pr
+	"En" pr
+"<1801>" num
+	"1801" num
+"<the>" det def sp
+	"el" det def GD ND
+"<Upper>" adj
+	"Superior" adj mf
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<move>" vblex pp
+	"mover" vblex pp
+	"moverse" vblex pron pp
+"<into>" pr
+	"a" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<large>" adj sint comp
+	"grande" adj mf comp
+"<White>" adj sint
+	"Blanco" adj
+"<Chamber>" n sg
+	"Cuarto" n m sg
+"<(>" lpar
+	"(" lpar
+"<also>" adv
+	"también" adv
+"<know>" vblex pp
+	"saber" vblex pp
+	"conocer" vblex pp
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Lesser>" adj
+	"Menor" adj mf
+"<Hall>" n sg
+	"Sala" n f sg
+	"Salón" n f sg
+"<)>" rpar
+	")" rpar
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<have>" vbhaver past
+	"haber" vbhaver past
+"<house>" vblex pp
+	"albergar" vblex pp
+"<the>" det def sp
+	"el" det def GD ND
+"<Court>" n sg
+	"Corte" n f sg
+	"Cancha" n f sg
+	"Juzgado" n m sg
+	"Tribunal" n m sg
+"<of>" pr
+	"de" pr
+"<Request>" n pl
+	"Petición" n f pl
+"<;>" sent
+	";" sent
+"<the>" det def sp
+	"el" det def GD ND
+"<expansion>" n sg
+	"expansión" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*Peerage>"
+	"*Peerage"
+"<by>" pr
+	"por" pr
+"<King>" np cog sg
+	"King" np cog mf sg
+"<George>" np ant m sg
+	"George" np ant m sg
+"<III>" num mf sg
+	"III" num mf sg
+"<during>" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<18th century>" n sg
+	"siglo XVIII" n m sg
+"<,>" cm
+	"," cm
+"<along with>" pr
+	"junto con" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<imminent>" adj
+	"inminente" adj mf
+"<Act>" n sg
+	"Ley" n f sg
+	"Acto" n m sg
+	"Acción" n f sg
+"<of>" pr
+	"de" pr
+"<Union>" n sg
+	"Unión" n f sg
+	"Sindicato" n m sg
+"<with>" pr
+	"con" pr
+"<Ireland>" np loc sg
+	"Irlanda" np loc f sg
+"<,>" cm
+	"," cm
+"<*necessitated>"
+	"*necessitated"
+"<the>" det def sp
+	"el" det def GD ND
+"<move>" n sg
+	"movimiento" n m sg
+"<,>" cm
+	"," cm
+"<as>" cnjadv
+	"como" cnjadv
+	"cuando" cnjadv
+"<the>" det def sp
+	"el" det def GD ND
+"<original>" adj
+	"original" adj mf
+"<chamber>" n sg
+	"cuarto" n m sg
+"<can>" vaux past
+	"poder" vbmod past
+"<not>" adv
+	"no" adv
+"<accommodate>" vblex inf
+	"acomodar" vblex inf
+"<the>" det def sp
+	"el" det def GD ND
+"<increase>" vblex pp
+	"aumentar" vblex pp
+"<number>" n sg
+	"número" n m sg
+"<of>" pr
+	"de" pr
+"<*peers>"
+	"*peers"
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<*Commons>"
+	"*Commons"
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<do>" vbdo past
+	""
+"<not>" adv
+	"no" adv
+"<have>" vblex inf
+	"tener" vblex inf
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<chamber>" n sg
+	"cuarto" n m sg
+"<of>" pr
+	"de" pr
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<own>" adj
+	"propio" adj
+"<,>" cm
+	"," cm
+"<sometimes>" adv
+	"a veces" adv
+"<hold>" vblex past
+	"aguantar" vblex past
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<debate>" n pl
+	"debate" n m pl
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Chapter>" n sg
+	"Capítulo" n m sg
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<Abbey>" n sg
+	"Abadía" n f sg
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<*Commons>"
+	"*Commons"
+"<acquire>" vblex pp
+	"adquirir" vblex pp
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<permanent>" adj
+	"permanente" adj mf
+"<home>" n sg
+	"casa" n f sg
+"<at>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<in>" pr
+	"en" pr
+"<*St>"
+	"*St"
+"<Stephen>" np ant m sg
+	"Stephen" np ant m sg
+"<'s>" gen
+	""
+"<Chapel>" n sg
+	"Capilla" n f sg
+"<,>" cm
+	"," cm
+"<the>" det def sp
+	"el" det def GD ND
+"<former>" adj
+	"anterior" adj mf
+"<chapel>" n sg
+	"capilla" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<royal>" adj
+	"real" adj mf
+"<palace>" n sg
+	"palacio" n m sg
+"<,>" cm
+	"," cm
+"<during>" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<reign>" n sg
+	"reinado" n m sg
+"<of>" pr
+	"de" pr
+"<Edward>" np ant m sg
+	"Edward" np ant m sg
+"<VI>" num mf sg
+	"VI" num mf sg
+"<.>" sent
+	"." sent
+"<In>" pr
+	"En" pr
+"<1547>" num
+	"1547" num
+"<the>" det def sp
+	"el" det def GD ND
+"<building>" n sg
+	"edificio" n m sg
+	"construcción" n f sg
+"<become>" vblex past
+	"acaecer" vblex past
+	"devenir" vblex past
+	"acontecer" vblex past
+	"llegar# a ser" vblex past
+"<available>" adj
+	"disponible" adj mf
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*Commons>"
+	"*Commons"
+"<'>" apos
+	"'" apos
+"<use>" n sg
+	"uso" n m sg
+"<follow>" vblex ger
+	"seguir" vblex ger
+"<the>" det def sp
+	"el" det def GD ND
+"<*disbanding>"
+	"*disbanding"
+"<of>" pr
+	"de" pr
+"<*St>"
+	"*St"
+"<Stephen>" np ant m sg
+	"Stephen" np ant m sg
+"<'s>" gen
+	""
+"<College>" n sg
+	"Universidad" n f sg
+"<.>" sent
+	"." sent
+"<Alteration>" n pl
+	"Alteración" n f pl
+"<be>" vbser past
+	"ser" vbser past
+"<make>" vblex pp
+	"hacer" vblex pp
+	"realizar" vblex pp
+"<to>" pr
+	"a" pr
+"<*St>"
+	"*St"
+"<Stephen>" np ant m sg
+	"Stephen" np ant m sg
+"<'s>" gen
+	""
+"<Chapel>" n sg
+	"Capilla" n f sg
+"<over>" pr
+	"sobre" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<following>" adj
+	"siguiente" adj mf
+"<three>" num sp
+	"tres" num mf sp
+"<century>" n pl
+	"siglo" n m pl
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<convenience>" n sg
+	"comodidad" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<low>" adj sint comp
+	"bajo" adj comp
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<,>" cm
+	"," cm
+"<gradually>" adv
+	"gradualmente" adv
+"<destroy>" vblex ger
+	"destruir" vblex ger
+"<,>" cm
+	"," cm
+"<or>" cnjcoo
+	"o" cnjcoo
+"<cover>" vblex ger
+	"cubrir" vblex ger
+"<up>" adv
+	"arriba" adv
+"<,>" cm
+	"," cm
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<original>" adj
+	"original" adj mf
+"<mediaeval>" adj
+	"medieval" adj mf
+"<appearance>" n sg
+	"aspecto" n m sg
+	"comparecencia" n f sg
+"<.>" sent
+	"." sent
+"<A>" det ind sg
+	"Uno" det ind GD sg
+"<major>" adj
+	"importante" adj mf
+"<renovation>" n sg
+	"renovación" n f sg
+"<project>" n sg
+	"proyecto" n m sg
+"<undertake>" vblex pp
+	"emprender" vblex pp
+"<by>" pr
+	"por" pr
+"<Christopher>" np ant m sg
+	"Christopher" np ant m sg
+"<*Wren>"
+	"*Wren"
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<late>" adj sint
+	"tardío" adj
+"<17th century>" n sg
+	"siglo XVII" n m sg
+"<completely>" adv
+	"completamente" adv
+"<*redesigned>"
+	"*redesigned"
+"<the>" det def sp
+	"el" det def GD ND
+"<building>" n sg
+	"edificio" n m sg
+	"construcción" n f sg
+"<'s>" gen
+	""
+"<interior>" n sg
+	"interior" n m sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<Palace>" n sg
+	"Palacio" n m sg
+"<of>" pr
+	"de" pr
+"<Westminster>" np loc sg
+	"Westminster" np loc m sg
+"<as a whole>" adv
+	"globalmente" adv
+"<begin>" vblex past
+	"empezar" vblex past
+"<to>" pr
+	"a" pr
+"<see>" vblex inf
+	"ver" vblex inf
+"<significant>" adj
+	"significativo" adj
+"<alteration>" n pl
+	"alteración" n f pl
+"<from>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<18th century>" n sg
+	"siglo XVIII" n m sg
+"<onwards>" adv
+	"en adelante" adv
+"<,>" cm
+	"," cm
+"<as>" cnjadv
+	"como" cnjadv
+	"cuando" cnjadv
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<struggle>" vblex past
+	"luchar" vblex past
+"<to>" pr
+	"a" pr
+"<carry>" vblex inf
+	"llevar" vblex inf
+"<out>" pr
+	"fuera de" pr
+"<its>" det pos sp
+	"suyo" det pos mf ND
+"<business>" n sg
+	"negocio" n m sg
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<limit>" vblex pp
+	"limitar" vblex pp
+"<available>" adj
+	"disponible" adj mf
+"<space>" n sg
+	"espacio" n m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<age>" vblex ger
+	"envejecer" vblex ger
+"<building>" n pl
+	"edificio" n m pl
+	"construcción" n f pl
+"<.>" sent
+	"." sent
+"<Call# for>" vblex pri p3 sg
+	"Pedir" vblex pri p3 sg
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<entirely>" adv
+	"enteramente" adv
+"<new>" adj sint
+	"nuevo" adj
+"<palace>" n sg
+	"palacio" n m sg
+"<go>" vblex past
+	"ir" vblex past
+"<*unheeded>"
+	"*unheeded"
+"<as>" preadv
+	"tan" preadv
+"<instead>" adv
+	"en cambio" adv
+"<more>" preadv
+	"más" preadv
+"<building>" n pl
+	"edificio" n m pl
+	"construcción" n f pl
+"<of>" pr
+	"de" pr
+"<varying>" adj
+	"variable" adj mf
+"<quality>" n sg
+	"calidad" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<style>" n sg
+	"moda" n f sg
+	"estilo" n m sg
+"<be>" vbser past
+	"ser" vbser past
+"<add>" vblex pp
+	"añadir" vblex pp
+"<.>" sent
+	"." sent
+"<A>" det ind sg
+	"Uno" det ind GD sg
+"<new>" adj sint
+	"nuevo" adj
+"<west>" adj
+	"del oeste" adj mf
+"<façade>" n sg
+	"fachada" n f sg
+"<,>" cm
+	"," cm
+"<know>" vblex pp
+	"saber" vblex pp
+	"conocer" vblex pp
+"<as>" pr
+	"como" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Stone>" n sg
+	"Hueso" n m sg
+	"Piedra" n f sg
+"<Building>" n sg
+	"Edificio" n m sg
+	"Construcción" n f sg
+"<,>" cm
+	"," cm
+"<face>" vblex ger
+	"afrontar" vblex ger
+"<onto>" pr
+	"a" pr
+"<*St>"
+	"*St"
+"<Margaret>" np ant f sg
+	"Margaret" np ant f sg
+"<'s>" gen
+	""
+"<Street>" n sg
+	"Calle" n f sg
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<design>" vblex pp
+	"diseñar" vblex pp
+"<by>" pr
+	"por" pr
+"<John>" np ant m sg
+	"John" np ant m sg
+"<*Vardy>"
+	"*Vardy"
+"<build>" vblex pp
+	"construir" vblex pp
+"<in>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*Palladian>"
+	"*Palladian"
+"<style>" n sg
+	"moda" n f sg
+	"estilo" n m sg
+"<between>" pr
+	"entre" pr
+"<1755>" num
+	"1755" num
+"<and>" cnjcoo
+	"y" cnjcoo
+"<1770>" num
+	"1770" num
+"<,>" cm
+	"," cm
+"<provide>" vblex ger
+	"proporcionar" vblex ger
+"<more>" preadv
+	"más" preadv
+"<space>" adj
+	"espacial" adj mf
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<document>" n sg
+	"documento" n m sg
+"<storage>" n sg
+	"almacenamiento" n m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<committee>" n sg
+	"comité" n m sg
+"<room>" n pl
+	"sala" n f pl
+	"espacio" n f pl
+	"habitación" n f pl
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<*Commons>"
+	"*Commons"
+"<*Engrossing>"
+	"*Engrossing"
+"<Office>" n sg
+	"Oficina" n f sg
+	"Secretaría" n f sg
+"<of>" pr
+	"de" pr
+"<Robert>" np ant m sg
+	"Robert" np ant m sg
+"<*Gunnell>"
+	"*Gunnell"
+"<(>" lpar
+	"(" lpar
+"<1724>" num
+	"1724" num
+"<–>" guio
+	"–" guio
+"<1794>" num
+	"1794" num
+"<)>" rpar
+	")" rpar
+"<and>" cnjcoo
+	"y" cnjcoo
+"<Edward>" np ant m sg
+	"Edward" np ant m sg
+"<*Barwell>"
+	"*Barwell"
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<on>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<low>" adj sint comp
+	"bajo" adj comp
+"<floor>" n sg
+	"piso" n m sg
+	"fondo" n f sg
+	"pista" n f sg
+	"suelo" n f sg
+"<beside>" pr
+	"junto a" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<corner>" n sg
+	"esquina" n f sg
+"<tower>" n sg
+	"torre" n f sg
+"<at>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<west>" adj
+	"del oeste" adj mf
+"<side>" n sg
+	"lado" n m sg
+	"ladera" n f sg
+	"aspecto" n f sg
+"<of>" pr
+	"de" pr
+"<*Vardy>"
+	"*Vardy"
+"<'s>" gen
+	""
+"<western>" adj
+	"occidental" adj mf
+"<façade>" n sg
+	"fachada" n f sg
+"<.>" sent
+	"." sent
+"<A>" det ind sg
+	"Uno" det ind GD sg
+"<new>" adj sint
+	"nuevo" adj
+"<official>" adj
+	"oficial" adj mf
+"<residence>" n sg
+	"residencia" n f sg
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<Speaker>" n sg
+	"Altavoz" n m sg
+	"Oradora" n f sg
+	"Ponente" n mf sg
+	"Hablante" n mf sg
+	"Presidente" n f sg
+	"Interlocutor" n f sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<*Commons>"
+	"*Commons"
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<build>" vblex pp
+	"construir" vblex pp
+"<adjoining>" adj
+	"contiguo" adj
+"<*St>"
+	"*St"
+"<Stephen>" np ant m sg
+	"Stephen" np ant m sg
+"<'s>" gen
+	""
+"<Chapel>" n sg
+	"Capilla" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<complete>" vblex pp
+	"completar" vblex pp
+"<in>" pr
+	"en" pr
+"<1795>" num
+	"1795" num
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<*neo>"
+	"*neo"
+"<->" guio
+	"-" guio
+"<gothic>" adj
+	"gótico" adj
+"<architect>" n sg
+	"arquitecto" n GD sg
+"<James>" np ant m sg
+	"James" np ant m sg
+"<Wyatt>" np ant m sg
+	"Wyatt" np ant m sg
+"<also>" adv
+	"también" adv
+"<carry>" vblex pp
+	"llevar" vblex pp
+"<out>" pr
+	"fuera de" pr
+"<work>" n pl
+	"obra" n f pl
+	"trabajo" n m pl
+"<on>" pr
+	"en" pr
+"<both>" det ind pl
+	"ambos" det ind GD pl
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<Lord>" n pl
+	"Señor" n GD pl
+"<and>" cnjcoo
+	"y" cnjcoo
+"<*Commons>"
+	"*Commons"
+"<between>" pr
+	"entre" pr
+"<1799>" num
+	"1799" num
+"<and>" cnjcoo
+	"y" cnjcoo
+"<1801>" num
+	"1801" num
+"<,>" cm
+	"," cm
+"<include>" vblex ger
+	"incluir" vblex ger
+"<alteration>" n pl
+	"alteración" n f pl
+"<to>" pr
+	"a" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<exterior>" adj
+	"exterior" adj mf
+"<of>" pr
+	"de" pr
+"<*St>"
+	"*St"
+"<Stephen>" np ant m sg
+	"Stephen" np ant m sg
+"<'s>" gen
+	""
+"<Chapel>" n sg
+	"Capilla" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<much>" det qnt sg
+	"mucho" det qnt GD sg
+"<->" guio
+	"-" guio
+"<*derided>"
+	"*derided"
+"<new>" adj sint
+	"nuevo" adj
+
+"<*neo>"
+	"*neo"
+"<->" guio
+	"-" guio
+"<gothic>" adj
+	"gótico" adj
+"<building>" n sg
+	"edificio" n m sg
+	"construcción" n f sg
+"<,>" cm
+	"," cm
+"<refer>" vblex pp
+	"referir" vblex pp
+"<to>" pr
+	"a" pr
+"<by>" pr
+	"por" pr
+"<Wyatt>" np ant m sg
+	"Wyatt" np ant m sg
+"<'s>" gen
+	""
+"<critic>" n pl
+	"crítico" n GD pl
+"<as>" pr
+	"como" pr
+ "
+"<The>" det def sp
+	"El" det def GD ND
+"<Cotton>" n sg
+	"Algodón" n m sg
+"<Mill>" n sg
+	"Molino" n m sg
+" 
+"<adjoining>" adj
+	"contiguo" adj
+"<the>" det def sp
+	"el" det def GD ND
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<Lord>" n pl
+	"Señor" n GD pl
+"<and>" cnjcoo
+	"y" cnjcoo
+"<face>" vblex ger
+	"afrontar" vblex ger
+"<onto>" pr
+	"a" pr
+"<Old>" adj sint
+	"Viejo" adj
+"<Palace>" n sg
+	"Palacio" n m sg
+"<Yard>" n sg
+	"Patio" n m sg
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
+
+"<The>" det def sp
+	"El" det def GD ND
+"<palace>" n sg
+	"palacio" n m sg
+"<complex>" n sg
+	"complejo" n m sg
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<substantially>" adv
+	"sustancialmente" adv
+"<remodel>" vblex pp
+	"remodelar" vblex pp
+"<,>" cm
+	"," cm
+"<this>" det dem sg
+	"este" det dem GD sg
+"<time>" n sg
+	"tiempo" n m ND sg
+"<by>" pr
+	"por" pr
+"<Sir>" n sg
+	"Señor" n GD sg
+"<John>" np ant m sg
+	"John" np ant m sg
+"<*Soane>"
+	"*Soane"
+"<,>" cm
+	"," cm
+"<between>" pr
+	"entre" pr
+"<1824>" num
+	"1824" num
+"<and>" cnjcoo
+	"y" cnjcoo
+"<1827>" num
+	"1827" num
+"<.>" sent
+	"." sent
+"<The>" det def sp
+	"El" det def GD ND
+"<medieval>" adj
+	"medieval" adj mf
+"<House>" n sg
+	"Casa" n f sg
+	"Cámara" n f sg
+"<of>" pr
+	"de" pr
+"<Lord>" n pl
+	"Señor" n GD pl
+"<chamber>" n sg
+	"cuarto" n m sg
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<have>" vbhaver past
+	"haber" vbhaver past
+"<be>" vbser pp
+	"ser" vbser pp
+"<the>" det def sp
+	"el" det def GD ND
+"<target>" n sg
+	"objetivo" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<fail>" vblex pp
+	"fallar" vblex pp
+"<Gunpowder>" n sg
+	"Pólvora" n f sg
+"<Plot>" n sg
+	"Trama" n f sg
+	"Parcela" n f sg
+	"Complot" n m sg
+"<of>" pr
+	"de" pr
+"<1605>" num
+	"1605" num
+"<,>" cm
+	"," cm
+"<be>" vbser past p3 sg
+	"ser" vbser past p3 sg
+"<demolish>" vblex pp
+	"derribar" vblex pp
+"<as>" preadv
+	"tan" preadv
+"<part>" n sg
+	"parte" n f sg
+	"papel" n f sg
+"<of>" pr
+	"de" pr
+"<this>" det dem sg
+	"este" det dem GD sg
+"<work>" n sg
+	"obra" n f sg
+	"trabajo" n m sg
+"<in order to>" pr
+	"para" pr
+"<create>" vblex inf
+	"crear" vblex inf
+"<a>" det ind sg
+	"uno" det ind GD sg
+"<new>" adj sint
+	"nuevo" adj
+"<Royal>" adj
+	"Real" adj mf
+"<Gallery>" n sg
+	"Galería" n f sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<*ceremonial>"
+	"*ceremonial"
+"<entrance>" n sg
+	"entrada" n f sg
+"<at>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<southern>" adj
+	"del sur" adj mf
+"<end>" n sg
+	"fin" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<palace>" n sg
+	"palacio" n m sg
+"<.>" sent
+	"." sent
+"<*Soane>"
+	"*Soane"
+"<'s>" gen
+	""
+"<work>" n sg
+	"obra" n f sg
+	"trabajo" n m sg
+"<at>" pr
+	"en" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<palace>" n sg
+	"palacio" n m sg
+"<also>" adv
+	"también" adv
+"<include>" vblex pp
+	"incluir" vblex pp
+"<new>" adj sint
+	"nuevo" adj
+"<library>" n sg
+	"biblioteca" n f sg
+"<facility>" n pl
+	"facilidad" n f pl
+	"instalación" n f pl
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<both>" det ind pl
+	"ambos" det ind GD pl
+"<House>" n pl
+	"Casa" n f pl
+	"Cámara" n f pl
+"<of>" pr
+	"de" pr
+"<Parliament>" n sg
+	"Parlamento" n m sg
+"<and>" cnjcoo
+	"y" cnjcoo
+"<new>" adj sint
+	"nuevo" adj
+"<law>" n sg
+	"ley" n f sg
+	"derecho" n f sg
+	"abogacía" n f sg
+"<court>" n pl
+	"corte" n f pl
+	"cancha" n f pl
+	"juzgado" n m pl
+	"tribunal" n m pl
+"<for>" pr
+	"para" pr
+	"durante" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<*Chancery>"
+	"*Chancery"
+"<and>" cnjcoo
+	"y" cnjcoo
+"<King>" n sg
+	"Rey" n m sg
+"<'s>" gen
+	""
+"<Bench>" n sg
+	"Banco" n m sg
+"<.>" sent
+	"." sent
+"<*Soane>"
+	"*Soane"
+"<'s>" gen
+	""
+"<alteration>" n pl
+	"alteración" n f pl
+"<cause>" vblex pp
+	"causar" vblex pp
+"<controversy>" n sg
+	"controversia" n f sg
+"<owing to>" pr
+	"a causa de" pr
+"<his>" det pos sp
+	"suyo" det pos mf ND
+"<use>" n sg
+	"uso" n m sg
+"<of>" pr
+	"de" pr
+"<*neo>"
+	"*neo"
+"<->" guio
+	"-" guio
+"<classical>" adj
+	"clásico" adj
+"<architectural>" adj
+	"arquitectónico" adj
+"<style>" n pl
+	"moda" n f pl
+	"estilo" n m pl
+"<,>" cm
+	"," cm
+"<which>" prn itg m sp
+	"cuál" prn itg mf ND
+"<conflict>" vblex past
+	"chocar" vblex past
+"<with>" pr
+	"con" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<gothic>" adj
+	"gótico" adj
+"<style>" n sg
+	"moda" n f sg
+	"estilo" n m sg
+"<of>" pr
+	"de" pr
+"<the>" det def sp
+	"el" det def GD ND
+"<original>" adj
+	"original" adj mf
+"<building>" n pl
+	"edificio" n m pl
+	"construcción" n f pl
+"<.>" sent
+	"." sent
+"<.>" sent
+	"." sent
+
