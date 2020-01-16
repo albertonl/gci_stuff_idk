@@ -362,8 +362,8 @@
 ç	"all" det qnt pl
 ç	"all" prn qnt mf sp
 "<about>"
-	"about" adv
-ç	"about" pr
+ç	"about" adv
+	"about" pr
 "<it>"
 ç	"prpers" prn subj p3 nt sg
 	"prpers" prn obj p3 nt sg
