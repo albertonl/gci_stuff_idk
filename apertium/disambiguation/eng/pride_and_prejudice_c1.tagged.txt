@@ -1070,9 +1070,9 @@
       “
 "<Design>"
 	"design" n sg
-	"design" vblex inf
-	"design" vblex pres
-	"design" vblex imp
+ç	"design" vblex inf
+ç	"design" vblex pres
+ç	"design" vblex imp
 "<!>"
 	"!" sent
 "<Nonsense>"
@@ -1080,75 +1080,71 @@
 "<,>"
 	"," cm
 "<how>"
-	"how" adv
-	"how" preadv
+ç	"how" adv
+ç	"how" preadv
 	"how" adv itg
 "<can>"
-	"can" n sg
-	"can" vbmod inf
+ç	"can" n sg
+ç	"can" vbmod inf
 	"can" vbmod pres
-	"can" vblex inf
-	"can" vblex pres
-	"can" vblex imp
+ç	"can" vblex inf
+ç	"can" vblex pres
+ç	"can" vblex imp
 "<you>"
 	"you" prn pers p2 mf sg
-	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn subj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<talk>"
-	"talk" n sg
+ç	"talk" n sg
 	"talk" vblex inf
-	"talk" vblex pres
-	"talk" vblex imp
+ç	"talk" vblex pres
+ç	"talk" vblex imp
 "<so>"
 	"so" adv
-	"so" preadv
-	"so" cnjadv
+ç	"so" preadv
+ç	"so" cnjadv
 "<!>"
 	"!" sent
 "<But>"
 	"but" cnjcoo
-	"but" pr
+ç	"but" pr
 "<it>"
 	"prpers" prn subj p3 nt sg
-	"prpers" prn obj p3 nt sg
+ç	"prpers" prn obj p3 nt sg
 "<is>"
 	"be" vbser pres p3 sg
 "<very>"
-	"very" adv
+ç	"very" adv
 	"very" preadv
 "<likely>"
 	"likely" adv
-	"likely" adj sint
-
-      
+ç	"likely" adj sint     
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
-	"that" prn dem mf sg
-	"that" prn rel an mf sp
+ç	"that" det dem sg
+ç	"that" prn dem mf sg
+ç	"that" prn rel an mf sp
 "<he>"
 	"prpers" prn subj p3 m sg
- _
 "<may>"
-	"may" vbmod inf
-	"may" vbmod pres
-_ 
+ç	"may" vbmod inf
+	"may" vbmod pres 
 "<fall>"
-	"fall" n sg
+ç	"fall" n sg
 	"fall" vblex inf
-	"fall" vblex pres
-	"fall" vblex imp
+ç	"fall" vblex pres
+ç	"fall" vblex imp
 "<in love>"
 	"in love" adj
 "<with>"
 	"with" pr
 "<one>"
-	"one" num sg
+ç	"one" num sg
 	"one" prn dem mf sg
 "<of>"
 	"of" pr
 "<them>"
-	"that" prn dem pl
+ç	"that" prn dem pl
 	"prpers" prn obj p3 mf pl
 "<,>"
 	"," cm
@@ -1156,28 +1152,26 @@ _
 	"and" cnjcoo
 "<therefore>"
 	"therefore" adv
-	"therefore" cnjadv
+ç	"therefore" cnjadv
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
-
-      
+ç	"prpers" prn obj p2 mf sp     
 "<must>"
-	"must" n sg
-	"must" vbmod inf
+ç	"must" n sg
+ç	"must" vbmod inf
 	"must" vbmod pres
 "<visit>"
-	"visit" n sg
+ç	"visit" n sg
 	"visit" vblex inf
-	"visit" vblex pres
-	"visit" vblex imp
+ç	"visit" vblex pres
+ç	"visit" vblex imp
 "<him>"
 	"prpers" prn obj p3 m sg
 "<as soon as>"
 	"as soon as" adv
-	"as soon as" cnjsub
-	"as soon as" cnjadv
+ç	"as soon as" cnjsub
+ç	"as soon as" cnjadv
 "<he>"
 	"prpers" prn subj p3 m sg
 "<comes>"
@@ -1193,32 +1187,32 @@ _
 "<I>"
 	"prpers" prn subj p1 mf sg
 "<see>"
-	"see" vblex inf
+ç	"see" vblex inf
 	"see" vblex pres
-	"see" vblex imp
+ç	"see" vblex imp
 "<no>"
-	"no" adv
+ç	"no" adv
 	"no" det ind sp
 "<occasion>"
 	"occasion" n sg
-	"occasion" vblex inf
-	"occasion" vblex pres
-	"occasion" vblex imp
+ç	"occasion" vblex inf
+ç	"occasion" vblex pres
+ç	"occasion" vblex imp
 "<for>"
-	"for" cnjadv
+ç	"for" cnjadv
 	"for" pr
 "<that>"
-	"that" cnjsub
-	"that" det dem sg
+ç	"that" cnjsub
+ç	"that" det dem sg
 	"that" prn dem mf sg
-	"that" prn rel an mf sp
+ç	"that" prn rel an mf sp
 "<.>"
 	"." sent
 "<You>"
-	"You" np cog sg
-	"you" prn pers p2 mf sg
+ç	"You" np cog sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<and>"
 	"and" cnjcoo
 "<the>"
@@ -1226,102 +1220,98 @@ _
 "<girls>"
 	"girl" n pl
 "<may>"
-	"may" vbmod inf
+ç	"may" vbmod inf
 	"may" vbmod pres
 "<go>"
 	"go" vblex inf
-	"go" vblex pres
-	"go" vblex imp
+ç	"go" vblex pres
+ç	"go" vblex imp
 "<,>"
 	"," cm
 "<or>"
 	"or" cnjcoo
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<may>"
-	"may" vbmod inf
-	"may" vbmod pres
-
-      
+ç	"may" vbmod inf
+	"may" vbmod pres     
 "<send>"
 	"send" vblex inf
-	"send" vblex pres
-	"send" vblex imp
+ç	"send" vblex pres
+ç	"send" vblex imp
 "<them>"
-	"that" prn dem pl
+ç	"that" prn dem pl
 	"prpers" prn obj p3 mf pl
 "<by>"
-	"by" adv
+ç	"by" adv
 	"by" pr
 "<themselves>"
-	"themselves" prn ref p3 mf sg
+ç	"themselves" prn ref p3 mf sg
 	"themselves" prn ref p3 mf pl
 "<,>"
 	"," cm
 "<which>"
-	"which" det itg sp
-	"which" prn itg mf sp
+ç	"which" det itg sp
+ç	"which" prn itg mf sp
 	"which" prn rel an mf sp
 "<perhaps>"
 	"perhaps" adv
 "<will>"
-	"will" n sg
-	"will" vbmod inf
+ç	"will" n sg
+ç	"will" vbmod inf
 	"will" vbmod pres
-	"will" vblex inf
-	"will" vblex pres
-	"will" vblex imp
+ç	"will" vblex inf
+ç	"will" vblex pres
+ç	"will" vblex imp
 "<be>"
 	"be" vbser inf
 "<still>"
 	"still" adv
-	"still" adj sint
+ç	"still" adj sint
 "<better>"
-	"better" adv
+ç	"better" adv
 	"good" adj sint comp
 "<,>"
 	"," cm
 "<for>"
-	"for" cnjadv
-	"for" pr
-
-      
+ç	"for" cnjadv
+	"for" pr     
 "<as>"
-	"as" adv
-	"as" preadv
+ç	"as" adv
+ç	"as" preadv
 	"as" cnjsub
-	"as" cnjadv
-	"as" pr
+ç	"as" cnjadv
+ç	"as" pr
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<are>"
 	"be" vbser pres
 "<as>"
 	"as" adv
-	"as" preadv
-	"as" cnjsub
-	"as" cnjadv
-	"as" pr
+ç	"as" preadv
+ç	"as" cnjsub
+ç	"as" cnjadv
+ç	"as" pr
 "<handsome>"
 	"handsome" adj
 "<as>"
 	"as" adv
-	"as" preadv
-	"as" cnjsub
-	"as" cnjadv
-	"as" pr
+ç	"as" preadv
+ç	"as" cnjsub
+ç	"as" cnjadv
+ç	"as" pr
 "<any>"
-	"any" adv
+ç	"any" adv
 	"any" det ind sp
-	"any" prn qnt mf sp
+ç	"any" prn qnt mf sp
 "<of>"
 	"of" pr
 "<them>"
-	"that" prn dem pl
+ç	"that" prn dem pl
 	"prpers" prn obj p3 mf pl
 "<,>"
 	"," cm
@@ -1330,25 +1320,23 @@ _
 "<Bingley>"
 	"*Bingley"
 "<may>"
-	"may" vbmod inf
+ç	"may" vbmod inf
 	"may" vbmod pres
 "<like>"
-	"like" adj
-	"like" cnjsub
-	"like" pr
+ç	"like" adj
+ç	"like" cnjsub
+ç	"like" pr
 	"like" vblex inf
-	"like" vblex pres
-	"like" vblex imp
+ç	"like" vblex pres
+ç	"like" vblex imp
 "<you>"
-	"you" prn pers p2 mf sg
-	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
-
-      
+ç	"you" prn pers p2 mf sg
+ç	"prpers" prn subj p2 mf sp
+	"prpers" prn obj p2 mf sp     
 "<the>"
 	"the" det def sp
 "<best>"
-	"best" adv
+ç	"best" adv
 	"good" adj sint sup
 "<of>"
 	"of" pr
@@ -1365,22 +1353,22 @@ _
 
       “
 "<My>"
-	"my" det pos sp
+ç	"my" det pos sp
 	"prpers" det pos p1 mf sg
 "<dear>"
-	"dear" adv
+ç	"dear" adv
 	"dear" adj sint
 "<,>"
 	"," cm
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<flatter>"
-	"flat" adj sint comp
-	"flatter" vblex inf
+ç	"flat" adj sint comp
+ç	"flatter" vblex inf
 	"flatter" vblex pres
-	"flatter" vblex imp
+ç	"flatter" vblex imp
 "<me>"
 	"prpers" prn obj p1 mf sg
 "<.>"
@@ -1389,53 +1377,49 @@ _
 	"prpers" prn subj p1 mf sg
 "<certainly>"
 	"certainly" adv
- _
 "<have>"
-	"have" vbhaver inf
+ç	"have" vbhaver inf
 	"have" vbhaver pres
-	"have" vblex inf
-	"have" vblex pres
-	"have" vblex imp
-_ 
+ç	"have" vblex inf
+ç	"have" vblex pres
+ç	"have" vblex imp 
 "<had>"
-	"have" vbhaver past
+ç	"have" vbhaver past
 	"have" vblex past
 "<my>"
-	"my" det pos sp
+ç	"my" det pos sp
 	"prpers" det pos p1 mf sg
 "<share>"
 	"share" n sg
-	"share" vblex inf
-	"share" vblex pres
-	"share" vblex imp
+ç	"share" vblex inf
+ç	"share" vblex pres
+ç	"share" vblex imp
 "<of>"
-	"of" pr
-
-      
+	"of" pr     
 "<beauty>"
 	"beauty" n sg
 "<,>"
 	"," cm
 "<but>"
 	"but" cnjcoo
-	"but" pr
+ç	"but" pr
 "<I>"
 	"prpers" prn subj p1 mf sg
 "<do>"
-	"do" vblex inf
-	"do" vblex pres
-	"do" vblex imp
-	"do" vaux inf
-	"do" vaux pres
-	"do" vbdo inf
+ç	"do" vblex inf
+ç	"do" vblex pres
+ç	"do" vblex imp
+ç	"do" vaux inf
+ç	"do" vaux pres
+ç	"do" vbdo inf
 	"do" vbdo pres
-	"do" vbdo imp
+ç	"do" vbdo imp
 "<not>"
 	"not" adv
 "<pretend>"
-	"pretend" vblex inf
+ç	"pretend" vblex inf
 	"pretend" vblex pres
-	"pretend" vblex imp
+ç	"pretend" vblex imp
 "<to>"
 	"to" pr
 "<be>"
@@ -1452,15 +1436,15 @@ _
       
 "<When>"
 	"when" adv
-	"when" cnjsub
-	"when" cnjadv
-	"when" adv itg
+ç	"when" cnjsub
+ç	"when" cnjadv
+ç	"when" adv itg
 "<a>"
 	"a" det ind sg
 "<woman>"
 	"woman" n sg
 "<has>"
-	"have" vbhaver pres p3 sg
+ç	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<five>"
 	"five" num pl
@@ -1470,7 +1454,7 @@ _
 	"-" guio
 "<up>"
 	"up" adv
-	"up" pr
+ç	"up" pr
 "<daughters>"
 	"daughter" n pl
 "<,>"
@@ -1483,29 +1467,27 @@ _
 	"to" pr
 "<give>"
 	"give" vblex inf
-	"give" vblex pres
-	"give" vblex imp
+ç	"give" vblex pres
+ç	"give" vblex imp
 "<over>"
-	"over" adv
-	"over" pr
-
-      
+ç	"over" adv
+	"over" pr     
 "<thinking>"
-	"thinking" n sg
-	"think" vblex pprs
-	"think" vblex subs
+ç	"thinking" n sg
+ç	"think" vblex pprs
+ç	"think" vblex subs
 	"think" vblex ger
 "<of>"
 	"of" pr
 "<her>"
-	"her" det pos sp
-	"prpers" prn obj p3 f sg
+ç	"her" det pos sp
+ç	"prpers" prn obj p3 f sg
 	"prpers" det pos p3 f sg
 "<own>"
 	"own" adj
-	"own" vblex inf
-	"own" vblex pres
-	"own" vblex imp
+ç	"own" vblex inf
+ç	"own" vblex pres
+ç	"own" vblex imp
 "<beauty>"
 	"beauty" n sg
 "<.>"
@@ -1517,11 +1499,11 @@ _
 
       “
 "<In>"
-	"in" adv
+ç	"in" adv
 	"in" pr
 "<such>"
 	"such" adv
-	"such" det ind sp
+ç	"such" det ind sp
 "<cases>"
 	"case" n pl
 "<,>"
@@ -1531,7 +1513,7 @@ _
 "<woman>"
 	"woman" n sg
 "<has>"
-	"have" vbhaver pres p3 sg
+ç	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<not>"
 	"not" adv
@@ -1539,17 +1521,16 @@ _
 	"often" adv
 "<much>"
 	"much" adv
-	"much" det qnt sg
-	"much" prn qnt mf sp
-
+ç	"much" det qnt sg
+ç	"much" prn qnt mf sp
 "<beauty>"
 	"beauty" n sg
 "<to>"
 	"to" pr
 "<think>"
 	"think" vblex inf
-	"think" vblex pres
-	"think" vblex imp
+ç	"think" vblex pres
+ç	"think" vblex imp
 "<of>"
 	"of" pr
 "<.>"
@@ -1562,50 +1543,48 @@ _
       “
 "<But>"
 	"but" cnjcoo
-	"but" pr
+ç	"but" pr
 "<,>"
 	"," cm
 "<my>"
-	"my" det pos sp
+ç	"my" det pos sp
 	"prpers" det pos p1 mf sg
 "<dear>"
-	"dear" adv
+ç	"dear" adv
 	"dear" adj sint
 "<,>"
 	"," cm
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<must>"
-	"must" n sg
-	"must" vbmod inf
+ç	"must" n sg
+ç	"must" vbmod inf
 	"must" vbmod pres
 "<indeed>"
 	"indeed" adv
 "<go>"
 	"go" vblex inf
-	"go" vblex pres
-	"go" vblex imp
+ç	"go" vblex pres
+ç	"go" vblex imp
 "<and>"
 	"and" cnjcoo
 "<see>"
 	"see" vblex inf
-	"see" vblex pres
-	"see" vblex imp
+ç	"see" vblex pres
+ç	"see" vblex imp
 "<Mr.>"
 	"Mr." n sg
 "<Bingley>"
 	"*Bingley"
 "<when>"
 	"when" adv
-	"when" cnjsub
-	"when" cnjadv
-	"when" adv itg
+ç	"when" cnjsub
+ç	"when" cnjadv
+ç	"when" adv itg
 "<he>"
-	"prpers" prn subj p3 m sg
-
-      
+	"prpers" prn subj p3 m sg     
 "<comes>"
 	"come" vblex pres p3 sg
 "<into>"
@@ -1624,7 +1603,7 @@ _
       “
 "<It>"
 	"prpers" prn subj p3 nt sg
-	"prpers" prn obj p3 nt sg
+ç	"prpers" prn obj p3 nt sg
 "<is>"
 	"be" vbser pres p3 sg
 "<more than>"
@@ -1632,23 +1611,23 @@ _
 "<I>"
 	"prpers" prn subj p1 mf sg
 "<engage>"
-	"engage" vblex inf
+ç	"engage" vblex inf
 	"engage" vblex pres
-	"engage" vblex imp
+ç	"engage" vblex imp
 "<for>"
-	"for" cnjadv
+ç	"for" cnjadv
 	"for" pr
 "<,>"
 	"," cm
 "<I>"
 	"prpers" prn subj p1 mf sg
 "<assure>"
-	"assure" vblex inf
+ç	"assure" vblex inf
 	"assure" vblex pres
-	"assure" vblex imp
+ç	"assure" vblex imp
 "<you>"
-	"you" prn pers p2 mf sg
-	"prpers" prn subj p2 mf sp
+ç	"you" prn pers p2 mf sg
+ç	"prpers" prn subj p2 mf sp
 	"prpers" prn obj p2 mf sp
 "<.>"
 	"." sent
@@ -1660,52 +1639,50 @@ _
       “
 "<But>"
 	"but" cnjcoo
-	"but" pr
+ç	"but" pr
 "<consider>"
-	"consider" vblex inf
+ç	"consider" vblex inf
 	"consider" vblex pres
-	"consider" vblex imp
+ç	"consider" vblex imp
 "<your>"
-	"your" det pos sp
+ç	"your" det pos sp
 	"prpers" det pos p2 mf sp
 "<daughters>"
 	"daughter" n pl
 "<.>"
 	"." sent
 "<Only>"
-	"only" adj
+ç	"only" adj
 	"only" adv
 "<think>"
-	"think" vblex inf
+ç	"think" vblex inf
 	"think" vblex pres
-	"think" vblex imp
+ç	"think" vblex imp
 "<what>"
 	"what" det itg sp
-	"what" prn itg mf sp
-	"what" prn rel nn mf sg
+ç	"what" prn itg mf sp
+ç	"what" prn rel nn mf sg
 "<an>"
 	"a" det ind sg
 "<establishment>"
 	"establishment" n sg
 "<it>"
 	"prpers" prn subj p3 nt sg
-	"prpers" prn obj p3 nt sg
-
-      
+ç	"prpers" prn obj p3 nt sg     
 "<would>"
 	"will" vbmod past
 "<be>"
 	"be" vbser inf
 "<for>"
-	"for" cnjadv
+ç	"for" cnjadv
 	"for" pr
 "<one>"
-	"one" num sg
+ç	"one" num sg
 	"one" prn dem mf sg
 "<of>"
 	"of" pr
 "<them>"
-	"that" prn dem pl
+ç	"that" prn dem pl
 	"prpers" prn obj p3 mf pl
 "<.>"
 	"." sent
@@ -1718,70 +1695,66 @@ _
 "<Lady>"
 	"lady" n sg
 "<Lucas>"
-	"Lucas" np cog sg
+ç	"Lucas" np cog sg
 	"Lucas" np ant m sg
-	"Lucas" np ant f sg
+ç	"Lucas" np ant f sg
 "<are>"
-	"be" vbser pres
-
-      
+	"be" vbser pres     
 "<determined>"
-	"determined" adj
-	"determine" vblex past
+ç	"determined" adj
+ç	"determine" vblex past
 	"determine" vblex pp
 "<to>"
 	"to" pr
 "<go>"
 	"go" vblex inf
-	"go" vblex pres
-	"go" vblex imp
+ç	"go" vblex pres
+ç	"go" vblex imp
 "<,>"
 	"," cm
 "<merely>"
 	"merely" adv
 "<on>"
-	"on" adv
+ç	"on" adv
 	"on" pr
 "<that>"
-	"that" cnjsub
+ç	"that" cnjsub
 	"that" det dem sg
-	"that" prn dem mf sg
-	"that" prn rel an mf sp
+ç	"that" prn dem mf sg
+ç	"that" prn rel an mf sp
 "<account>"
 	"account" n sg
-	"account" vblex inf
-	"account" vblex pres
-	"account" vblex imp
+ç	"account" vblex inf
+ç	"account" vblex pres
+ç	"account" vblex imp
 "<,>"
 	"," cm
 "<for>"
-	"for" cnjadv
+ç	"for" cnjadv
 	"for" pr
 "<in general>"
 	"in general" adv
 "<,>"
 	"," cm
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
-
-      
+ç	"prpers" prn obj p2 mf sp     
 "<know>"
-	"know" vblex inf
+ç	"know" vblex inf
 	"know" vblex pres
-	"know" vblex imp
+ç	"know" vblex imp
 "<,>"
 	"," cm
 "<they>"
 	"prpers" prn subj p3 mf pl
 "<visit>"
-	"visit" n sg
-	"visit" vblex inf
+ç	"visit" n sg
+ç	"visit" vblex inf
 	"visit" vblex pres
-	"visit" vblex imp
+ç	"visit" vblex imp
 "<no>"
-	"no" adv
+ç	"no" adv
 	"no" det ind sp
 "<newcomers>"
 	"newcomer" n pl
@@ -1790,70 +1763,66 @@ _
 "<Indeed>"
 	"indeed" adv
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<must>"
-	"must" n sg
-	"must" vbmod inf
+ç	"must" n sg
+ç	"must" vbmod inf
 	"must" vbmod pres
 "<go>"
 	"go" vblex inf
-	"go" vblex pres
-	"go" vblex imp
+ç	"go" vblex pres
+ç	"go" vblex imp
 "<,>"
 	"," cm
 "<for>"
-	"for" cnjadv
+ç	"for" cnjadv
 	"for" pr
 "<it>"
 	"prpers" prn subj p3 nt sg
-	"prpers" prn obj p3 nt sg
+ç	"prpers" prn obj p3 nt sg
 "<will>"
-	"will" n sg
-	"will" vbmod inf
+ç	"will" n sg
+ç	"will" vbmod inf
 	"will" vbmod pres
-	"will" vblex inf
-	"will" vblex pres
-	"will" vblex imp
+ç	"will" vblex inf
+ç	"will" vblex pres
+ç	"will" vblex imp
 "<be>"
-	"be" vbser inf
-
-      
+	"be" vbser inf     
 "<impossible>"
 	"impossible" adj
 "<for>"
-	"for" cnjadv
+ç	"for" cnjadv
 	"for" pr
- _
 "<us>"
-	"prpers" prn obj p1 mf pl
-_ 
+	"prpers" prn obj p1 mf pl 
 "<to>"
 	"to" pr
 "<visit>"
-	"visit" n sg
+ç	"visit" n sg
 	"visit" vblex inf
-	"visit" vblex pres
-	"visit" vblex imp
+ç	"visit" vblex pres
+ç	"visit" vblex imp
 "<him>"
 	"prpers" prn obj p3 m sg
 "<if>"
-	"if" adv
+ç	"if" adv
 	"if" cnjsub
 "<you>"
-	"you" prn pers p2 mf sg
+ç	"you" prn pers p2 mf sg
 	"prpers" prn subj p2 mf sp
-	"prpers" prn obj p2 mf sp
+ç	"prpers" prn obj p2 mf sp
 "<do>"
-	"do" vblex inf
-	"do" vblex pres
-	"do" vblex imp
-	"do" vaux inf
-	"do" vaux pres
-	"do" vbdo inf
+ç	"do" vblex inf
+ç	"do" vblex pres
+ç	"do" vblex imp
+ç	"do" vaux inf
+ç	"do" vaux pres
+ç	"do" vbdo inf
 	"do" vbdo pres
-	"do" vbdo imp
+ç	"do" vbdo imp
 "<not>"
 	"not" adv
 "<.>"
