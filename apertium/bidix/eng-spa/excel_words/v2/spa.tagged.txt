@@ -1,0 +1,322 @@
+"<en voz alta>"
+	"en voz alta" adv
+
+"<reconocimiento>"
+	"reconocimiento" n m sg
+
+"<pronóstico>"
+	"pronóstico" n m sg
+
+"<inquieto>"
+	"inquieto" adj m sg
+	"inquietar" vblex pri p1 sg
+
+"<intranquilo>"
+	"intranquilo" adj m sg
+
+"<artimaña>"
+	"artimaña" n f sg
+
+"<enfermo>"
+	"enfermo" adj m sg
+	"enfermo" n m sg
+	"enfermar" vblex pri p1 sg
+
+"<insignificante>"
+	"insignificante" adj mf sg
+
+"<amazona>"
+	"amazona" n f sg
+
+"<benevolencia>"
+	"benevolencia" n f sg
+
+"<esfuerzo>"
+	"esfuerzo" n m sg
+	"esforzar" vblex pri p1 sg
+
+"<muy>"
+	"muy" preadv
+"<positivo>"
+	"positivo" adj m sg
+
+"<salón>"
+	"salón" n m sg
+
+"<favorablemente>"
+	"favorablemente" adv
+
+"<retener>"
+	"retener" vblex inf
+
+"<solícito>"
+	"solícito" adj m sg
+
+"<boticario>"
+	"boticario" n m sg
+
+"<indolente>"
+	"indolente" adj mf sg
+
+"<senderista>"
+	"senderista" adj mf sg
+	"senderista" n mf sg
+
+"<disparatado>"
+	"disparatado" adj m sg
+
+"<absurdo>"
+	"absurdo" adj m sg
+	"absurdo" n m sg
+
+"<corretear>"
+	"corretear" vblex inf
+
+"<desordenado>"
+	"desordenado" adj m sg
+	"desordenar" vblex pp m sg
+
+"<enagua>"
+	"*enagua"
+
+"<alegrarse>"
+	"se" prn enc ref p3 mf sp
+		"alegrar" vblex inf
+
+"<iluminarse>"
+	"se" prn enc ref p3 mf sp
+		"iluminar" vblex inf
+
+"<anotar>"
+	"anotar" vblex inf
+
+"<apuntar>"
+	"apuntar" vblex inf
+
+"<sensiblemente>"
+	"sensiblemente" adv
+
+"<considerablemente>"
+	"considerablemente" adv
+
+"<consentir>"
+	"consentir" vblex inf
+
+"<regocijo>"
+	"regocijo" n m sg
+	"regocijar" vblex pri p1 sg
+
+"<hilaridad>"
+	"hilaridad" n f sg
+
+"<váter>"
+	"váter" n m sg
+
+"<enfermería>"
+	"enfermería" n f sg
+
+"<mentir>"
+	"mentir" vblex inf
+
+"<ir>"
+	"ir" vblex inf
+"<a>"
+	"a" pr
+"<buscar>"
+	"buscar" vblex inf
+
+"<parado>"
+	"parado" n m sg
+	"parar" vblex pp m sg
+
+"<vano>"
+	"vano" adj m sg
+	"vano" n m sg
+
+"<frívolo>"
+	"frívolo" adj m sg
+
+"<comprender>"
+	"comprender" vblex inf
+
+"<organizar>"
+	"organizar" vblex inf
+
+"<colocar>"
+	"colocar" vblex inf
+
+"<si>"
+	"si" cnjadv
+"<no>"
+	"no" adv
+	"no" ij
+
+"<falta>"
+	"falta" n f sg
+	"falto" adj f sg
+	"faltar" vblex pri p3 sg
+	"faltar" vblex imp p2 sg
+"<de>"
+	"de" pr
+"<atención>"
+	"atención" n f sg
+
+"<infravalorar>"
+	"infravalorar" vblex inf
+
+"<mísero>"
+	"mísero" adj m sg
+
+"<mezquino>"
+	"mezquino" adj m sg
+
+"<tacañería>"
+	"tacañería" n f sg
+
+"<condescender>"
+	"condescender" vblex inf
+
+"<cautiverio>"
+	"cautiverio" n m sg
+
+"<médico>"
+	"médico" adj m sg
+	"médico" n m sg
+
+"<cumplir>"
+	"cumplir" vblex inf
+
+"<obedecer>"
+	"obedecer" vblex inf
+
+"<acatar>"
+	"acatar" vblex inf
+
+"<decididamente>"
+	"decididamente" adv
+
+"<consolar>"
+	"consolar" vblex inf
+
+"<miseria>"
+	"miseria" n f sg
+
+"<empleado>"
+	"empleado" n m sg
+	"emplear" vblex pp m sg
+"<del>"
+	"el" det def m sg
+		"de" pr
+"<hogar>"
+	"hogar" n m sg
+
+"<profuso>"
+	"profuso" adj m sg
+
+"<estimable>"
+	"estimable" adj mf sg
+
+"<malinterpretar>"
+	"malinterpretar" vblex inf
+
+"<distinguido>"
+	"distinguido" adj m sg
+	"distinguir" vblex pp m sg
+
+"<regordete>"
+	"regordete" adj m sg
+
+"<morir>"
+	"morir" vblex inf
+"<de>"
+	"de" pr
+"<hambre>"
+	"hambre" n f sg
+
+"<seguir>"
+	"seguir" vblex inf
+
+"<desear>"
+	"desear" vblex inf
+
+"<bondad>"
+	"bondad" n f sg
+
+"<amabilidad>"
+	"amabilidad" n f sg
+
+"<cortesía>"
+	"cortesía" n f sg
+
+"<salir>"
+	"salir" vblex inf
+
+"<ocurrencia>"
+	"ocurrencia" n f sg
+
+"<arreglar>"
+	"arreglar" vblex inf
+
+"<bordado>"
+	"bordado" n m sg
+	"bordar" vblex pp m sg
+
+"<indiferencia>"
+	"indiferencia" n f sg
+
+"<odioso>"
+	"odioso" adj m sg
+
+"<detestable>"
+	"detestable" adj mf sg
+
+"<imaginable>"
+	"imaginable" adj mf sg
+
+"<borrón>"
+	"borrón" n m sg
+
+"<reprobación>"
+	"reprobación" n f sg
+
+"<reprensión>"
+	"reprensión" n f sg
+
+"<reprehensión>"
+	"*reprehensión"
+
+"<descuido>"
+	"descuido" n m sg
+	"descuidar" vblex pri p1 sg
+
+"<negligencia>"
+	"negligencia" n f sg
+
+"<preciado>"
+	"preciado" adj m sg
+	"preciar" vblex pp m sg
+
+"<laudable>"
+	"laudable" adj mf sg
+
+"<imprudencia>"
+	"imprudencia" n f sg
+
+"<expiar>"
+	"expiar" vblex inf
+
+"<solicitante>"
+	"solicitante" adj mf sg
+	"solicitante" n mf sg
+
+"<acto seguido>"
+	"acto seguido" adv
+
+"<subsistir>"
+	"subsistir" vblex inf
+
+"<reprensible>"
+	"reprensible" adj mf sg
+"<.>"
+	"." sent
+

@@ -1,0 +1,265 @@
+"<aloud>"
+	"aloud" adv
+
+"<acknowledgement>"
+	"acknowledgement" n sg
+
+"<prognostic>"
+	"*prognostic"
+
+"<uneasy>"
+	"uneasy" adj sint
+
+"<contrivance>"
+	"*contrivance"
+
+"<unwell>"
+	"*unwell"
+
+"<trifling>"
+	"*trifling"
+
+"<horsewoman>"
+	"*horsewoman"
+
+"<benevolence>"
+	"benevolence" n sg
+
+"<exertion>"
+	"exertion" n sg
+
+"<glowing>"
+	"glow" vblex pprs
+	"glow" vblex subs
+	"glow" vblex ger
+
+"<parlour>"
+	"parlour" n sg
+
+"<favourably>"
+	"favourably" adv
+
+"<withhold>"
+	"withhold" vblex inf
+	"withhold" vblex pres
+	"withhold" vblex imp
+
+"<solicitude>"
+	"solicitude" n sg
+
+"<apothecary>"
+	"apothecary" n sg
+
+"<indolent>"
+	"*indolent"
+
+"<walker>"
+	"walker" n sg
+
+"<nonsensical>"
+	"nonsensical" adj
+
+"<scamper>"
+	"scamper" vblex inf
+	"scamper" vblex pres
+	"scamper" vblex imp
+
+"<untidy>"
+	"untidy" adj
+	"untidy" vblex inf
+	"untidy" vblex pres
+	"untidy" vblex imp
+
+"<petticoat>"
+	"petticoat" n sg
+
+"<brighten>"
+	"brighten" vblex inf
+	"brighten" vblex pres
+	"brighten" vblex imp
+
+"<jot>"
+	"*jot"
+
+"<materially>"
+	"materially" adv
+
+"<indulge>"
+	"*indulge"
+
+"<mirth>"
+	"mirth" n sg
+
+"<loo>"
+	"*loo"
+
+"<nursing>"
+	"nursing" n sg
+	"nurse" vblex pprs
+	"nurse" vblex subs
+	"nurse" vblex ger
+
+"<lie>"
+	"lie" n sg
+	"lie" vblex inf
+	"lie" vblex pres
+	"lie" vblex imp
+
+"<fetch>"
+	"fetch" vblex inf
+	"fetch" vblex pres
+	"fetch" vblex imp
+
+"<idle>"
+	"idle" adj
+	"idle" vblex inf
+	"idle" vblex pres
+	"idle" vblex imp
+
+"<comprehend>"
+	"comprehend" vblex inf
+	"comprehend" vblex pres
+	"comprehend" vblex imp
+
+"<station>"
+	"station" n sg
+	"station" vblex inf
+	"station" vblex pres
+	"station" vblex imp
+
+"<otherwise>"
+	"otherwise" adv
+
+"<inattention>"
+	"*inattention"
+
+"<undervalue>"
+	"undervalue" vblex inf
+	"undervalue" vblex pres
+	"undervalue" vblex imp
+
+"<paltry>"
+	"paltry" adj sint
+
+"<meanness>"
+	"*meanness"
+
+"<condescend>"
+	"*condescend"
+
+"<captivation>"
+	"*captivation"
+
+"<physician>"
+	"physician" n sg
+
+"<comply>"
+	"comply" vblex inf
+	"comply" vblex pres
+	"comply" vblex imp
+
+"<decidedly>"
+	"decidedly" adv
+
+"<solace>"
+	"solace" n sg
+
+"<wretchedness>"
+	"wretchedness" n sg
+
+"<housekeeper>"
+	"housekeeper" n sg
+
+"<profuse>"
+	"*profuse"
+
+"<estimable>"
+	"estimable" adj
+
+"<mistake>"
+	"mistake" n sg
+
+"<genteel>"
+	"*genteel"
+
+"<stout>"
+	"*stout"
+
+"<starve>"
+	"starve" vblex inf
+	"starve" vblex pres
+	"starve" vblex imp
+
+"<ensue>"
+	"ensue" vblex inf
+	"ensue" vblex pres
+	"ensue" vblex imp
+
+"<long>"
+	"long" adv
+	"long" adj sint
+	"long" vblex inf
+	"long" vblex pres
+	"long" vblex imp
+
+"<graciousness>"
+	"*graciousness"
+
+"<witticism>"
+	"witticism" n sg
+
+"<mend>"
+	"mend" vblex inf
+	"mend" vblex pres
+	"mend" vblex imp
+
+"<needlework>"
+	"needlework" n sg
+
+"<unconcern>"
+	"*unconcern"
+
+"<odious>"
+	"*odious"
+
+"<imaginable>"
+	"*imaginable"
+
+"<blot>"
+	"blot" vblex inf
+	"blot" vblex pres
+	"blot" vblex imp
+
+"<reproof>"
+	"*reproof"
+
+"<carelessness>"
+	"carelessness" n sg
+
+"<prized>"
+	"prize" vblex past
+	"prize" vblex pp
+
+"<laudable>"
+	"laudable" adj
+
+"<rashness>"
+	"rashness" n sg
+
+"<atone>"
+	"*atone"
+
+"<requester>"
+	"*requester"
+
+"<thereupon>"
+	"*thereupon"
+
+"<subsist>"
+	"*subsist"
+
+"<reprehensible>"
+	"reprehensible" adj
+"<.>"
+	"." sent
+

@@ -1,0 +1,228 @@
+^SPA/Spa<np><loc>/SPA<n><acr><m><sp>$
+^legítimo/legítimo<adj><m><sg>$
+^irritante/irritante<adj><mf><sg>$
+^Bennet/Bennet<np><ant>$
+^Bingley/*Bingley$
+^escrupuloso/escrupuloso<adj><m><sg>$
+^caluroso/caluroso<adj><m><sg>$
+^el que/el que<rel><an><m><sg>$^,/,<cm>$ ^la que/el que<rel><an><f><sg>$
+^Lizzy/*Lizzy$
+^sin/sin<pr>$ ^sentido/sentido<n><m><sg>/sentir<vblex><pp><m><sg>$ ^del/de<pr>+el<det><def><m><sg>$ ^humor/humor<n><m><sg>$
+^rapidez/rapidez<n><f><sg>$
+^irritante/irritante<adj><mf><sg>$^,/,<cm>$ ^preocupante/preocupante<adj><mf><sg>$
+^sarcástico/sarcástico<adj><m><sg>$
+^capricho/capricho<n><m><sg>$^,/,<cm>$ ^antojo/antojo<n><m><sg>/antojar<vblex><pri><p1><sg>$
+^descontento/descontento<adj><m><sg>/descontento<n><m><sg>/descontentar<vblex><pri><p1><sg>$
+^consuelo/consuelo<n><m><sg>/consolar<vblex><pri><p1><sg>$
+^adorno/adorno<n><m><sg>/adornar<vblex><pri><p1><sg>$^,/,<cm>$ ^ribete/ribete<n><m><sg>$
+^con/con<pr>$ ^resentimiento/resentimiento<n><m><sg>$
+^hipócrita/hipócrita<adj><mf><sg>/hipócrita<n><mf><sg>$
+^dignar/dignar<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$
+^Kitty/*Kitty$
+^inquietamente/inquietamente<adv>$
+^día siguiente/día siguiente<n><m><sg>$
+^de/de<pr>$ ^broma/broma<n><f><sg>$
+^conocido/conocido<n><m><sg>/conocer<vblex><pp><m><sg>$
+^mirar/mirar<vblex><inf>$ ^fijamente/fijamente<adv>$
+^fatigado/fatigar<vblex><pp><m><sg>$
+^embeleso/embeleso<n><m><sg>/embelesar<vblex><pri><p1><sg>$^,/,<cm>$ ^éxtasis/éxtasis<n><m><sp>$
+^firmemente/firmemente<adv>$^,/,<cm>$ ^rotundamente/rotundamente<adv>$
+^conjetura/conjetura<n><f><sg>/conjeturar<vblex><pri><p3><sg>/conjeturar<vblex><imp><p2><sg>$
+^descarado/descarado<adj><m><sg>/descarar<vblex><pp><m><sg>$
+^suponer/suponer<vblex><inf>$
+^eludir/eludir<vblex><inf>$
+^despachar/despachar<vblex><inf>$^,/,<cm>$ ^enviar/enviar<vblex><inf>$^,/,<cm>$ ^remitir/remitir<vblex><inf>$
+^administración/administración<n><f><sg>$ ^de/de<pr>$ ^la/el<det><def><f><sg>/lo<prn><pro><p3><f><sg>$ ^casa/casa<n><f><sg>/casar<vblex><pri><p3><sg>/casar<vblex><imp><p2><sg>$
+^diferir/diferir<vblex><inf>$^,/,<cm>$ ^posponer/posponer<vblex><inf>$
+^desconcertado/desconcertar<vblex><pp><m><sg>$
+^Hertfordshire/*Hertfordshire$
+^tener que/tener<vblex><inf>+que<cnjsub>/tener<vbmod><inf># que$
+^calmar/calmar<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$
+^en total/en total<adv>$
+^mayor/mayor<adj><mf><sg>$
+^caballeroso/caballeroso<adj><m><sg>$
+^semblante/semblante<n><m><sg>$^,/,<cm>$ ^rostro/rostro<n><m><sg>$
+^Hurst/*Hurst$
+^Darcy/*Darcy$
+^semblante/semblante<n><m><sg>$
+^Derbyshire/*Derbyshire$
+^desagradable/desagradable<adj><mf><sg>$
+^sin/sin<pr>$ ^reservas/reserva<n><f><pl>/reservar<vblex><pri><p2><sg>$^,/,<cm>$ ^incondicional/incondicional<adj><mf><sg>$
+^despreciado/despreciar<vblex><pp><m><sg>$
+^escasez/escasez<n><f><sg>$
+^insoportable/insoportable<adj><mf><sg>$
+^meticuloso/meticuloso<adj><m><sg>$^,/,<cm>$ ^maniático/maniático<adj><m><sg>$
+^raramente/raramente<adv>$
+^contemplar/contemplar<vblex><inf>$
+^fríamente/fríamente<adv>$
+^jocoso/jocoso<adj><m><sg>$^,/,<cm>$ ^chistoso/chistoso<adj><m><sg>$^,/,<cm>$ ^juguetón/juguetón<adj><m><sg>$
+^Longbourn/*Longbourn$
+^controvertido/controvertido<adj><m><sg>/controvertir<vblex><pp><m><sg>$
+^preguntar/preguntar<vblex><inf>$
+^torcer/torcer<vblex><inf>$
+^Hurst/*Hurst$
+^vestido/vestido<n><m><sg>/vestir<vblex><pp><m><sg>$
+^grosería/grosería<n><f><sg>$
+^horroroso/horroroso<adj><m><sg>$^,/,<cm>$ ^malo/malo<adj><m><sg>$
+^arrogante/arrogante<adj><mf><sg>$
+^cumplido/cumplido<adj><m><sg>/cumplido<n><m><sg>/cumplir<vblex><pp><m><sg>$
+^valentía/valentía<n><f><sg>$^,/,<cm>$ ^bravura/bravura<n><f><sg>$^,/,<cm>$ ^heroísmo/heroísmo<n><m><sg>$^,/,<cm>$ ^galantería/galantería<n><f><sg>$^,/,<cm>$ ^cortesía/cortesía<n><f><sg>$
+^censurar/censurar<vblex><inf>$
+^sinceridad/sinceridad<n><f><sg>$^,/,<cm>$ ^naturalidad/naturalidad<n><f><sg>$
+^maleabilidad/maleabilidad<n><f><sg>$
+^inexpugnable/inexpugnable<adj><mf><sg>$
+^seminario/seminario<n><m><sg>$
+^mezquinamente/mezquinamente<adv>$
+^señorío/señorío<n><m><sg>$
+^facilidad/facilidad<n><f><sg>$
+^presidir/presidir<vblex><inf>$
+^hacer/hacer<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$ ^querer/querer<vblex><inf>/querer<vbmod><inf>$
+^dependencia/dependencia<n><f><sg>$
+^donde/donde<rel><adv>$
+^ofensa/ofensa<n><f><sg>$^,/,<cm>$ ^delito/delito<n><m><sg>$^,/,<cm>$ ^infracción/infracción<n><f><sg>$
+^rigidez/rigidez<n><f><sg>$
+^encomio/encomio<n><m><sg>/encomiar<vblex><pri><p1><sg>$
+^título/título<n><m><sg>$ ^de/de<pr>$ ^Sir/sir<n><m><sg>$
+^alcaldía/alcaldía<n><f><sg>$
+^coartar/coartar<vblex><inf>$^,/,<cm>$ ^constreñir/constreñir<vblex><inf>$
+^eufórico/eufórico<adj><m><sg>$
+^hacer/hacer<vblex><inf>$
+^desdeñoso/desdeñoso<adj><m><sg>$
+^inofensivo/inofensivo<adj><m><sg>$
+^educado/educado<adj><m><sg>/educar<vblex><pp><m><sg>$
+^Lucases/*Lucases$
+^oír/oír<vblex><inf>$ ^por/por<pr>$ ^casualidad/casualidad<n><f><sg>$
+^estimular/estimular<vblex><inf>$
+^propenso/propenso<adj><m><sg>$
+^apreciar/apreciar<vblex><inf>$
+^carácter/carácter<n><m><sg>$^,/,<cm>$ ^ser/ser<vbser><inf>/ser<n><m><sg>$
+^autocomplacencia/autocomplacencia<n><f><sg>$
+^perro/perro<n><m><sg>$ ^raposero/*raposero$
+^desdén/desdén<n><m><sg>$
+^alegría/alegría<n><f><sg>$^,/,<cm>$ ^buen/buen<adj><m><sg>$ ^humor/humor<n><m><sg>$
+^impertinente/impertinente<adj><mf><sg>$
+^cauto/cauto<adj><m><sg>$^,/,<cm>$ ^comedido/comedir<vblex><pp><m><sg>$
+^razonablemente/razonablemente<adv>$^,/,<cm>$ ^pasablemente/pasablemente<adv>$
+^sensatez/sensatez<n><f><sg>$
+^felicidad/felicidad<n><f><sg>$^,/,<cm>$ ^dicha/dicho<adj><f><sg>/decir<vblex><pp><f><sg>$
+^jocosidad/jocosidad<n><f><sg>$
+^Forster/*Forster$
+^burlar/burlar<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$ ^de/de<pr>$
+^perseverar/perseverar<vblex><inf>$
+^gachas/gacho<adj><f><pl>/gachas<n><f><pl>$ ^de/de<pr>$ ^avena/avena<n><f><sg>/avenar<vblex><pri><p3><sg>/avenar<vblex><imp><p2><sg>$
+^súplica/súplica<n><f><sg>$^,/,<cm>$ ^ruego/ruego<n><m><sg>/rogar<vblex><pri><p1><sg>$
+^logro/logro<n><m><sg>/lograr<vblex><pri><p1><sg>$
+^absorto/absorto<adj><m><sg>/absortar<vblex><pri><p1><sg>$
+^moda/moda<n><f><sg>$
+^salvaje/salvaje<adj><mf><sg>/salvaje<n><mf><sg>$
+^inconsiderable/*inconsiderable$
+^galante/galante<adj><mf><sg>$
+^suplicar/suplicar<vblex><inf>$
+^corrección/corrección<n><f><sg>$^,/,<cm>$ ^decoro/decoro<n><m><sg>/decorar<vblex><pri><p1><sg>$
+^destacar/destacar<vblex><inf>$
+^educación/educación<n><f><sg>$
+^complacencia/complacencia<n><f><sg>$
+^maliciosamente/maliciosamente<adv>$
+^ensueño/ensueño<n><m><sg>$
+^insipidez/insipidez<n><f><sg>$
+^[/[<lpar>$^la/el<det><def><f><sg>/lo<prn><pro><p3><f><sg>$^]/]<rpar>$ ^nada/nada<adv>/nada<prn><tn><nt>/nadar<vblex><pri><p3><sg>/nadar<vblex><imp><p2><sg>$^,/,<cm>$ ^[/[<lpar>$^el/el<det><def><m><sg>$^]/]<rpar>$ ^vacío/vacío<adj><m><sg>/vacío<n><m><sg>/vaciar<vblex><pri><p1><sg>$
+^crítica/crítica<n><f><sg>/crítico<adj><f><sg>/crítico<n><f><sg>$^,/,<cm>$ ^restricción/restricción<n><f><sg>$
+^agradablemente/agradablemente<adv>$
+^meditar/meditar<vblex><inf>$
+^otorgar/otorgar<vblex><inf>$
+^intrepidez/*intrepidez$
+^matrimonio/matrimonio<n><m><sg>$
+^implicar/implicar<vblex><inf>$
+^falta/falta<n><f><sg>/falto<adj><f><sg>/faltar<vblex><pri><p3><sg>/faltar<vblex><imp><p2><sg>$^,/,<cm>$ ^opción/opción<n><f><sg>$ ^por/por<pr>$ ^defecto/defecto<n><m><sg>$
+^bastante/bastante<adv>/bastante<preadv>/bastante<adj><mf><sg>$^,/,<cm>$ ^suficiente/suficiente<adj><mf><sg>$^,/,<cm>$ ^de sobra/de sobra<adv>$
+^Phillips/*Phillips$
+^sombrerero/sombrerero<n><m><sg>$^(/(<lpar>$/^a/a<pr>$^)/)<rpar>$
+^desnudo/desnudo<adj><m><sg>/desnudar<vblex><pri><p1><sg>$
+^alojamiento/alojamiento<n><m><sg>$
+^sin/sin<pr>$ ^valor/valor<n><m><sg>$
+^oponer/oponer<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$
+^pabellón/pabellón<n><m><sg>$ ^nacional/nacional<adj><mf><sg>$
+^efusión/efusión<n><f><sg>$
+^indiferentemente/indiferentemente<adv>$
+^despreciativamente/despreciativamente<adv>$
+^sentimiento/sentimiento<n><m><sg>$^,/,<cm>$ ^opinión/opinión<n><f><sg>$
+^más/más<adv>/más<adj><mf><sp>$ ^aún/aún<adv>$
+^lacayo/lacayo<adj><m><sg>/lacayo<n><m><sg>$
+^en voz alta/en voz alta<adv>$
+^Louisa/*Louisa$
+^reconocimiento/reconocimiento<n><m><sg>$
+^pronóstico/pronóstico<n><m><sg>$
+^inquieto/inquieto<adj><m><sg>/inquietar<vblex><pri><p1><sg>$^,/,<cm>$ ^intranquilo/intranquilo<adj><m><sg>$
+^artimaña/artimaña<n><f><sg>$^,/,<cm>$ ^reta/retar<vblex><pri><p3><sg>/retar<vblex><imp><p2><sg>$
+^enfermo/enfermo<adj><m><sg>/enfermo<n><m><sg>/enfermar<vblex><pri><p1><sg>$
+^insignificante/insignificante<adj><mf><sg>$^,/,<cm>$ ^sin/sin<pr>$ ^importancia/importancia<n><f><sg>$
+^amazona/amazona<n><f><sg>$
+^benevolencia/benevolencia<n><f><sg>$
+^esfuerzo/esfuerzo<n><m><sg>/esforzar<vblex><pri><p1><sg>$
+^muy/muy<preadv>$ ^positivo/positivo<adj><m><sg>$
+^salón/salón<n><m><sg>$
+^favorablemente/favorablemente<adv>$
+^retener/retener<vblex><inf>$^,/,<cm>$ ^no/no<adv>/no<ij>$ ^revelar/revelar<vblex><inf>$
+^solícito/solícito<adj><m><sg>$
+^boticario/boticario<n><m><sg>$
+^indolente/indolente<adj><mf><sg>$
+^senderista/senderista<adj><mf><sg>/senderista<n><mf><sg>$
+^disparatado/disparatado<adj><m><sg>$^,/,<cm>$ ^absurdo/absurdo<adj><m><sg>/absurdo<n><m><sg>$
+^corretear/corretear<vblex><inf>$
+^desordenado/desordenado<adj><m><sg>/desordenar<vblex><pp><m><sg>$
+^enagua/*enagua$
+^alegrar/alegrar<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$^,/,<cm>$ ^iluminar/iluminar<vblex><inf>$^(/(<lpar>$^se/se<prn><pro><ref><p3><mf><sp>$^)/)<rpar>$
+^Cheapside/*Cheapside$
+^anotar/anotar<vblex><inf>$^,/,<cm>$ ^apuntar/apuntar<vblex><inf>$
+^sensiblemente/sensiblemente<adv>$^,/,<cm>$ ^considerablemente/considerablemente<adv>$
+^consentir/consentir<vblex><inf>$
+^regocijo/regocijo<n><m><sg>/regocijar<vblex><pri><p1><sg>$^,/,<cm>$ ^hilaridad/hilaridad<n><f><sg>$
+^váter/váter<n><m><sg>$
+^enfermería/enfermería<n><f><sg>$
+^mentir/mentir<vblex><inf>$
+^ir/ir<vblex><inf>$ ^(/(<lpar>$^a/a<pr>$^)/)<rpar>$ ^por/por<pr>$^,/,<cm>$ ^ir/ir<vblex><inf>$ ^a/a<pr>$ ^buscar/buscar<vblex><inf>$
+^parado/parado<n><m><sg>/parar<vblex><pp><m><sg>$^,/,<cm>$ ^frívolo/frívolo<adj><m><sg>$^,/,<cm>$ ^vano/vano<adj><m><sg>/vano<n><m><sg>$
+^comprender/comprender<vblex><inf>$
+^organizar/organizar<vblex><inf>$^,/,<cm>$ ^colocar/colocar<vblex><inf>$
+^si/si<cnjadv>$ ^no/no<adv>/no<ij>$
+^falta/falta<n><f><sg>/falto<adj><f><sg>/faltar<vblex><pri><p3><sg>/faltar<vblex><imp><p2><sg>$ ^de/de<pr>$ ^atención/atención<n><f><sg>$
+^infravalorar/infravalorar<vblex><inf>$
+^mísero/mísero<adj><m><sg>$^,/,<cm>$ ^mezquino/mezquino<adj><m><sg>$
+^tacañería/tacañería<n><f><sg>$^,/,<cm>$ ^maldad/maldad<n><f><sg>$
+^condescender/condescender<vblex><inf>$
+^cautiverio/cautiverio<n><m><sg>$
+^médico/médico<adj><m><sg>/médico<n><m><sg>$
+^cumplir/cumplir<vblex><inf>$^,/,<cm>$ ^acatar/acatar<vblex><inf>$^,/,<cm>$ ^obedecer/obedecer<vblex><inf>$
+^decididamente/decididamente<adv>$
+^consolar/consolar<vblex><inf>$
+^miseria/miseria<n><f><sg>$
+^empleado/empleado<n><m><sg>/emplear<vblex><pp><m><sg>$/^a/a<pr>$ ^del/de<pr>+el<det><def><m><sg>$ ^hogar/hogar<n><m><sg>$
+^criada/criado<n><f><sg>/criar<vblex><pp><f><sg>$
+^profuso/profuso<adj><m><sg>$
+^estimable/estimable<adj><mf><sg>$
+^malinterpretar/malinterpretar<vblex><inf>$
+^distinguido/distinguido<adj><m><sg>/distinguir<vblex><pp><m><sg>$
+^Gardiner/*Gardiner$
+^regordete/regordete<adj><m><sg>$
+^morir/morir<vblex><inf>$ ^de/de<pr>$ ^hambre/hambre<n><f><sg>$
+^seguir/seguir<vblex><inf>$
+^desear/desear<vblex><inf>$
+^bondad/bondad<n><f><sg>$^,/,<cm>$ ^amabilidad/amabilidad<n><f><sg>$^,/,<cm>$ ^cortesía/cortesía<n><f><sg>$
+^salir/salir<vblex><inf>$
+^ocurrencia/ocurrencia<n><f><sg>$^,/,<cm>$ ^salida/salida<n><f><sg>/salir<vblex><pp><f><sg>$
+^arreglar/arreglar<vblex><inf>$
+^bordado/bordado<n><m><sg>/bordar<vblex><pp><m><sg>$
+^indiferencia/indiferencia<n><f><sg>$
+^odioso/odioso<adj><m><sg>$^,/,<cm>$ ^detestable/detestable<adj><mf><sg>$
+^imaginable/imaginable<adj><mf><sg>$
+^borrón/borrón<n><m><sg>$
+^reprobación/reprobación<n><f><sg>$^,/,<cm>$ ^reprensión/reprensión<n><f><sg>$
+^descuido/descuido<n><m><sg>/descuidar<vblex><pri><p1><sg>$^,/,<cm>$ ^negligencia/negligencia<n><f><sg>$
+^preciado/preciado<adj><m><sg>/preciar<vblex><pp><m><sg>$
+^loable/loable<adj><mf><sg>$^,/,<cm>$ ^laudable/laudable<adj><mf><sg>$
+^imprudencia/imprudencia<n><f><sg>$
+^expiar/expiar<vblex><inf>$
+^solicitante/solicitante<adj><mf><sg>/solicitante<n><mf><sg>$
+^acto seguido/acto seguido<adv>$
+^subsistir/subsistir<vblex><inf>$
+^reprensible/reprensible<adj><mf><sg>$^,/,<cm>$ ^reprehensible/reprehensible<adj><mf><sg>$^./.<sent>$
