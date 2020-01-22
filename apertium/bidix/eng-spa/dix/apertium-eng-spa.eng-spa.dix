@@ -38990,10 +38990,13 @@
     <e a="albertonl"><i>Kitty<s n="np"/><s n="ant"/></i></e>
     <e a="albertonl"><i>Hurst<s n="np"/><s n="ant"/></i></e>
     <e a="albertonl"><i>Darcy<s n="np"/><s n="ant"/></i></e>
+    <e a="albertonl"><i>Phillips<s n="np"/><s n="ant"/></i></e>
     <e a="albertonl"><i>Lucases<s n="np"/><s n="ant"/></i></e>
+    <e a="albertonl"><i>Forster<s n="np"/><s n="ant"/></i></e>
     <e a="albertonl"><i>Hertfordshire<s n="np"/><s n="loc"/></i></e>
     <e a="albertonl"><i>Derbyshire<s n="np"/><s n="loc"/></i></e>
     <e a="albertonl"><i>Longbourn<s n="np"/><s n="loc"/></i></e>
+    <e a="albertonl"><i>Phillips<s n="np"/><s n="al"/></i></e>
     <e a="albertonl" r="LR"><p><l>over<s n="pr"/></l><r>a<b/>lo<b/>largo<b/>de<s n="pr"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>throughout<s n="pr"/></l><r>a<b/>lo<b/>largo<b/>de<s n="pr"/></r></p></e>
     <e a="albertonl"><p><l>rightful<s n="adj"/></l>         <r>legítimo<s n="adj"/></r></p></e>
@@ -39100,6 +39103,63 @@
     <e a="albertonl" r="LR"><p><l>self<s n="n"/></l>        <r>ser<s n="n"/><s n="m"/></r></p></e>
     <e a="albertonl"><p><l>complacency<s n="n"/></l>        <r>autocomplacencia<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl"><p><l>foxhound<s n="n"/></l>           <r>perro<b/>raposero<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>superciliousness<s n="n"/></l>   <r>desdén<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>cheerfulness<s n="n"/></l><r>alegría<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>impertinent<s n="adj"/></l>      <r>impertinente<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>guarded<s n="adj"/></l>          <r>cauto<s n="adj"/></r></p></e>
+    <e a="albertonl" r="RL"><p><l>guarded<s n="adj"/></l>   <r>comedido<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>tolerably<s n="adv"/></l>        <r>razonablemente<s n="adv"/></r></p></e>
+    <e a="albertonl" r="RL"><p><l>tolerably<s n="adv"/></l> <r>pasablemente<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>reasonableness<s n="n"/></l>     <r>sensatez<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>felicity<s n="n"/></l>           <r>dicha<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>felicity<s n="n"/></l>    <r>felicidad<s n="n"/></r></p></e>
+    <e a="albertonl"><p><l>playfulness<s n="n"/></l>        <r>jocosidad<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>tease<s n="vblex"/></l>          <r>burlarse<b/>de<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>persevere<s n="vblex"/></l>      <r>perseverar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>porridge<s n="n"/></l>           <r>gachas<b/>de<b/>avena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e a="albertonl"><p><l>entreaty<s n="n"/></l>           <r>súplica<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>entreaty<s n="n"/></l>           <r>ruego<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>accomplishment<s n="n"/></l>     <r>logro<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>engrossed<s n="adj"/></l>        <r>absorto<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>vogue<s n="n"/></l>              <r>moda<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>savage<s n="adj"/></l>           <r>salvaje<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>inconsiderable<s n="adj"/></l>   <r>inconsiderable<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>gallant<s n="adj"/></l>          <r>galante<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>entreat<s n="vblex"/></l>        <r>suplicar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>propriety<s n="n"/></l>          <r>corrección<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="RL"><p><l>propriety<s n="n"/></l>   <r>decoro<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>excel<s n="vblex"/></l>   <r>destacar<s n="vblex"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>politeness<s n="n"/></l>  <r>educación<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>complaisance<s n="n"/></l>       <r>complacencia<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>archly<s n="adv"/></l>           <r>maliciosamente<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>reverie<s n="n"/></l>            <r>ensueño<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>insipidity<s n="n"/></l>         <r>insipidez<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>nothingness<s n="n"/></l>        <r>nada<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>nothingness<s n="n"/></l> <r>vacío<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>stricture<s n="n"/></l>   <r>crítica<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>stricture<s n="n"/></l>   <r>restricción<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>agreeably<s n="adv"/></l>        <r>agradablemente<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>meditate<s n="vblex"/></l>       <r>meditar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>bestow<s n="vblex"/></l>         <r>otorgar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>intrepidity<s n="n"/></l>        <r>intrepidez<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>matrimony<s n="n"/></l>   <r>matrimonio<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>entail<s n="vblex"/></l>         <r>implicar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>default<s n="n"/></l>            <r>falta<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>default<s n="n"/></l>            <r>opción<b/>por<b/>defecto<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>ample<s n="adj"/></l>     <r>suficiente<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>milliner<s n="n"/></l>           <r>sombrerero<s n="n"/></r></p></e> <!-- job => masc/fem -->
+    <e a="albertonl" r="LR"><p><l>bare<s n="adj"/></l>      <r>desnudo<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>lodging<s n="n"/></l>            <r>alojamiento<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>worthless<s n="adj"/></l>        <r>sin<b/>valor<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>oppose<s n="vblex"/></l>         <r>oponerse<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>ensign<s n="n"/></l>             <r>pabellón<b/>nacional<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>effusion<s n="n"/></l>           <r>efusión<s n="n"/></r></p></e>
+    <e a="albertonl"><p><l>coolly<s n="adv"/></l>           <r>indiferentemente<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>slightingly<s n="adv"/></l>      <r>despreciativamente<s n="adv"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>sentiment<s n="n"/></l>   <r>sentimiento<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>sentiment<s n="n"/></l>   <r>opinión<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>nay<s n="adv"/></l>              <r>más<b/>aún<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>footman<s n="n"/></l>            <r>lacayo<s n="n"/><s n="m"/></r></p></e>
     
   </section>
   <section id="regexp" type="standard">
