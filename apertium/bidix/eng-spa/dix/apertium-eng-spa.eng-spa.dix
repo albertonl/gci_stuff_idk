@@ -39163,25 +39163,25 @@
     <e a="albertonl" r="LR"><p><l>sentiment<s n="n"/></l>   <r>opinión<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl"><p><l>nay<s n="adv"/></l>              <r>más<b/>aún<s n="adv"/></r></p></e>
     <e a="albertonl"><p><l>footman<s n="n"/></l>            <r>lacayo<s n="n"/><s n="m"/></r></p></e>
-    <e a="albertonl"><p><l>aloud<s n="adv"/></l> 			<r>en<b/>voz<b/>alta<s n="adv"/></r></p></e>
-    <e a="albertonl"><p><l>acknowledgement<s n="n"/></l> 	<r>reconocimiento<s n="n"/><s n="m"/></r></p></e>
-    <e a="albertonl"><p><l>prognostic<s n="n"/></l> 		<r>pronóstico<s n="n"/><s n="m"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>uneasy<s n="adj"/></l> 	<r>inquieto<s n="adj"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>uneasy<s n="adj"/></l> 	<r>intranquilo<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>contrivance<s n="n"/></l> 		<r>artimaña<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>unwell<s n="adj"/></l> 	<r>enfermo<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>trifling<s n="adj"/></l> 		<r>insignificante<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>aloud<s n="adv"/></l> 			      <r>en<b/>voz<b/>alta<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>acknowledgement<s n="n"/></l> 	  <r>reconocimiento<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>prognostic<s n="n"/></l> 		    <r>pronóstico<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>uneasy<s n="adj"/></l> 	  <r>inquieto<s n="adj"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>uneasy<s n="adj"/></l> 	  <r>intranquilo<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>contrivance<s n="n"/></l> 		    <r>artimaña<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>unwell<s n="adj"/></l> 	  <r>enfermo<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>trifling<s n="adj"/></l> 		    <r>insignificante<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>horsewoman<s n="n"/><s n="f"/></l><r>amazona<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl"><p><l>benevolence<s n="n"/></l> 		<r>benevolencia<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>exertion<s n="n"/></l> 	<r>esfuerzo<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>benevolence<s n="n"/></l> 		    <r>benevolencia<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>exertion<s n="n"/></l> 	  <r>esfuerzo<s n="n"/><s n="m"/></r></p></e>
     <e a="albertonl" r="RL"><p><l>glowing<s n="adj"/></l> 	<r>muy<b/>positivo<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>parlour<s n="n"/></l> 			<r>salón<s n="n"/><s n="m"/></r></p></e>
-    <e a="albertonl"><p><l>favourably<s n="adv"/></l> 		<r>favorablemente<s n="adv"/></r></p></e>
-    <e a="albertonl"><p><l>withhold<s n="vblex"/></l> 		<r>retener<s n="vblex"/></r></p></e>
-    <e a="albertonl"><p><l>solicitude<s n="adj"/></l> 		<r>solícito<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>apothecary<s n="n"/></l> 		<r>boticario<s n="n"/></r></p></e> <!-- job => masc/fem -->
-    <e a="albertonl"><p><l>indolent<s n="adj"/></l> 		<r>indolente<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>walker<s n="n"/></l> 			<r>senderista<s n="n"/><s n="mf"/></r></p></e>
+    <e a="albertonl"><p><l>parlour<s n="n"/></l> 			      <r>salón<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>favourably<s n="adv"/></l> 		  <r>favorablemente<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>withhold<s n="vblex"/></l> 		  <r>retener<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>solicitude<s n="adj"/></l> 		  <r>solícito<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>apothecary<s n="n"/></l> 		    <r>boticario<s n="n"/></r></p></e> <!-- job => masc/fem -->
+    <e a="albertonl"><p><l>indolent<s n="adj"/></l> 		    <r>indolente<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>walker<s n="n"/></l> 			      <r>senderista<s n="n"/><s n="mf"/></r></p></e>
     <e a="albertonl"><p><l>nonsensical<s n="adj"/></l> 		<r>disparatado<s n="adj"/></r></p></e>
     <e a="albertonl" r="RL"><p><l>nonsensical<s n="adj"/></l><r>absurdo<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>scamper<s n="vblex"/></l> 		<r>corretear<s n="vblex"/></r></p></e>
@@ -39194,42 +39194,42 @@
     <e a="albertonl" r="LR"><p><l>materially<s n="adv"/></l><r>sensiblemente<s n="adv"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>materially<s n="adv"/></l><r>considerablemente<s n="adv"/></r></p></e>
     <e a="albertonl"><p><l>indulge<s n="vblex"/></l> 		<r>consentir<s n="vblex"/></r></p></e>
-    <e a="albertonl"><p><l>mirth<s n="n"/></l> 				<r>regocijo<s n="n"/><s n="m"/></r></p></e>
-    <e a="albertonl"><p><l>mirth<s n="n"/></l> 				<r>hilaridad<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>mirth<s n="n"/></l> 				  <r>regocijo<s n="n"/><s n="m"/></r></p></e>
+    <e a="albertonl"><p><l>mirth<s n="n"/></l> 				  <r>hilaridad<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>loo<s n="n"/></l> 		<r>váter<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>nursing<s n="n"/></l> 	<r>enfermería<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl"><p><l>lie<s n="vblex"/></l> 			<r>mentir<s n="vblex"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>nursing<s n="n"/></l> <r>enfermería<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>lie<s n="vblex"/></l> 			  <r>mentir<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>fetch<s n="vblex"/></l> 			<r>ir<b/>a<b/>buscar<s n="vblex"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>idle<s n="adj"/></l> 		<r>parado<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>idle<s n="adj"/></l> 			<r>vano<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>idle<s n="adj"/></l> 			<r>frívolo<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>comprehend<s n="vblex"/></l> 	<r>comprender<s n="vblex"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>station<s n="vblex"/></l> <r>organizar<s n="vblex"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>station<s n="vblex"/></l> <r>colocar<s n="vblex"/></r></p></e>
-    <e a="albertonl"><p><l>otherwise<s n="cnjsub"/></l> 	<r>si<b/>no<s n="cnjsub"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>idle<s n="adj"/></l> 	<r>parado<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>idle<s n="adj"/></l> 			  <r>vano<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>idle<s n="adj"/></l> 			  <r>frívolo<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>comprehend<s n="vblex"/></l> <r>comprender<s n="vblex"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>station<s n="vblex"/></l><r>organizar<s n="vblex"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>station<s n="vblex"/></l><r>colocar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>otherwise<s n="adv"/></l> <r>si<b/>no<s n="adv"/></r></p></e>
     <e a="albertonl"><p><l>inattention<s n="n"/></l> 		<r>falta<b/>de<b/>atención<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl"><p><l>undervalue<s n="vblex"/></l> 	<r>infravalorar<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>undervalue<s n="vblex"/></l> <r>infravalorar<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>paltry<s n="adj"/></l> 			<r>mísero<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>paltry<s n="adj"/></l> 			<r>mezquino<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>meanness<s n="n"/></l> 			<r>tacañería<s n="n"/><s n="f"/></r></p></e>
-    <e a="albertonl"><p><l>condescend<s n="vblex"/></l> 	<r>condescender<s n="vblex"/></r></p></e>
+    <e a="albertonl"><p><l>condescend<s n="vblex"/></l> <r>condescender<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>captivation<s n="n"/></l> 		<r>cautiverio<s n="n"/><s n="m"/></r></p></e>
     <e a="albertonl"><p><l>physician<s n="n"/></l> 			<r>médico<s n="n"/><s n="mf"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>comply<s n="vblex"/></l> 	<r>cumplir<s n="vblex"/></r></p></e>
-    <e a="albertonl" r="LR"><p><l>comply<s n="vblex"/></l> 	<r>obedecer<s n="vblex"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>comply<s n="vblex"/></l><r>cumplir<s n="vblex"/></r></p></e>
+    <e a="albertonl" r="LR"><p><l>comply<s n="vblex"/></l><r>obedecer<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>comply<s n="vblex"/></l> 		<r>acatar<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>decidedly<s n="adv"/></l> 		<r>decididamente<s n="adv"/></r></p></e>
     <e a="albertonl"><p><l>solace<s n="vblex"/></l> 		<r>consolar<s n="vblex"/></r></p></e>
-    <e a="albertonl"><p><l>wretchedness<s n="n"/></l> 		<r>miseria<s n="n"/><s n="f"/></r></p></e>
+    <e a="albertonl"><p><l>wretchedness<s n="n"/></l> 	<r>miseria<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl"><p><l>housekeeper<s n="n"/></l> 		<r>empleado<b/>del<b/>hogar<s n="n"/></r></p></e> <!-- job => masc/fem -->
     <e a="albertonl"><p><l>profuse<s n="adj"/></l> 			<r>profuso<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>estimable<s n="adj"/></l> 		<r>estimable<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>mistake<s n="vblex"/></l> 		<r>malinterpretar<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>genteel<s n="adj"/></l> 			<r>distinguido<s n="adj"/></r></p></e>
-    <e a="albertonl"><p><l>stout<s n="adj"/></l> 			<r>regordete<s n="adj"/></r></p></e>
+    <e a="albertonl"><p><l>stout<s n="adj"/></l> 			  <r>regordete<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>starve<s n="vblex"/></l> 		<r>morir<b/>de<b/>hambre<s n="vblex"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>ensue<s n="vblex"/></l><r>seguir<s n="vblex"/></r></p/></e>
-    <e a="albertonl"><p><l>long<s n="vblex"/></l><r>desear<s n="vblex"/></r></p/></e>
+    <e a="albertonl"><p><l>long<s n="vblex"/></l>       <r>desear<s n="vblex"/></r></p/></e>
     <e a="albertonl" r="LR"><p><l>graciousness<s n="n"/></l><r>bondad<s n="n"/><s n="f"/></r></p/></e>
     <e a="albertonl" r="LR"><p><l>graciousness<s n="n"/></l><r>amabilidad<s n="n"/><s n="f"/></r></p/></e>
     <e a="albertonl" r="LR"><p><l>graciousness<s n="n"/></l><r>cortesía<s n="n"/><s n="f"/></r></p/></e>
