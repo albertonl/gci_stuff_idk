@@ -39174,7 +39174,7 @@
     <e a="albertonl"><p><l>horsewoman<s n="n"/><s n="f"/></l><r>amazona<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl"><p><l>benevolence<s n="n"/></l> 		    <r>benevolencia<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>exertion<s n="n"/></l> 	  <r>esfuerzo<s n="n"/><s n="m"/></r></p></e>
-    <e a="albertonl" r="RL"><p><l>glowing<s n="adj"/></l> 	<r>muy<b/>positivo<s n="adj"/></r></p></e>
+    <e a="albertonl" r="RL"><p><l>glowing<s n="adj"/></l> 	<r>positivo<s n="adj"/></r></p></e>
     <e a="albertonl"><p><l>parlour<s n="n"/></l> 			      <r>salón<s n="n"/><s n="m"/></r></p></e>
     <e a="albertonl"><p><l>favourably<s n="adv"/></l> 		  <r>favorablemente<s n="adv"/></r></p></e>
     <e a="albertonl"><p><l>withhold<s n="vblex"/></l> 		  <r>retener<s n="vblex"/></r></p></e>
@@ -39206,7 +39206,7 @@
     <e a="albertonl"><p><l>comprehend<s n="vblex"/></l> <r>comprender<s n="vblex"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>station<s n="vblex"/></l><r>organizar<s n="vblex"/></r></p></e>
     <e a="albertonl" r="LR"><p><l>station<s n="vblex"/></l><r>colocar<s n="vblex"/></r></p></e>
-    <e a="albertonl"><p><l>otherwise<s n="adv"/></l> <r>si<b/>no<s n="adv"/></r></p></e>
+    <e a="albertonl"><p><l>otherwise<s n="cnjadv"/></l> <r>si<b/>no<s n="cnjadv"/></r></p></e>
     <e a="albertonl"><p><l>inattention<s n="n"/></l> 		<r>falta<b/>de<b/>atención<s n="n"/><s n="f"/></r></p></e>
     <e a="albertonl"><p><l>undervalue<s n="vblex"/></l> <r>infravalorar<s n="vblex"/></r></p></e>
     <e a="albertonl"><p><l>paltry<s n="adj"/></l> 			<r>mísero<s n="adj"/></r></p></e>
